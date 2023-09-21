@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EXERCÍCIO", "EXERCÍCIO\EX
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{FFE84019-1D9A-4503-884D-91F6C6C2D798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoImplicitaeCasting", "ConversaoImplicitaeCasting\ConversaoImplicitaeCasting.csproj", "{57066187-D290-48D3-A30E-883EAFC061CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoImplicitaeCasting", "ConversaoImplicitaeCasting\ConversaoImplicitaeCasting.csproj", "{57066187-D290-48D3-A30E-883EAFC061CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{0F100882-3C82-4EDB-937E-ABBB9D78EF32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{0F100882-3C82-4EDB-937E-ABBB9D78EF32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entrada_ De_Dados", "Entrada_ De_Dados\Entrada_ De_Dados.csproj", "{5606B816-992A-4962-96C3-F90ACC2D1C19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0F100882-3C82-4EDB-937E-ABBB9D78EF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F100882-3C82-4EDB-937E-ABBB9D78EF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F100882-3C82-4EDB-937E-ABBB9D78EF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5606B816-992A-4962-96C3-F90ACC2D1C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5606B816-992A-4962-96C3-F90ACC2D1C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5606B816-992A-4962-96C3-F90ACC2D1C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5606B816-992A-4962-96C3-F90ACC2D1C19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
