@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace Entrada_De_Dados_2
 {
-    internal class Program
+    public class Program
     {
         public static NumberStyles Cult { get; private set; }
 
