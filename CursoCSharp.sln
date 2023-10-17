@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-CursoCSharp", "CursoCSharp\1-CursoCSharp.csproj", "{A29822CE-E231-421D-8B06-473D8744B383}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-CursoCSharp", "CursoCSharp\01-CursoCSharp.csproj", "{A29822CE-E231-421D-8B06-473D8744B383}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-Comentarios", "Comentarios\2-Comentarios.csproj", "{562702FA-9528-493F-BE90-4789E6256936}"
 EndProject
@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-OperadoresAritmeticos", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-Entrada_ De_Dados-1", "Entrada_ De_Dados\8-Entrada_ De_Dados-1.csproj", "{5606B816-992A-4962-96C3-F90ACC2D1C19}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entrada_De_Dados-2", "Entrada_De_Dados-2\Entrada_De_Dados-2.csproj", "{55D34306-DF84-4858-BF45-7F2A38D075CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9- Entrada_De_Dados-2", "Entrada_De_Dados-2\9- Entrada_De_Dados-2.csproj", "{55D34306-DF84-4858-BF45-7F2A38D075CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioEntradaDeDados", "ExercicioEntradaDeDados\ExercicioEntradaDeDados.csproj", "{A7AC3823-B93E-4FF6-AF76-45D4CEE4CB7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioEntradaDeDados", "ExercicioEntradaDeDados\ExercicioEntradaDeDados.csproj", "{A7AC3823-B93E-4FF6-AF76-45D4CEE4CB7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores comparativos", "Operadores comparativos\Operadores comparativos.csproj", "{A0595158-D493-4095-9B71-E69BC058A393}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{A7AC3823-B93E-4FF6-AF76-45D4CEE4CB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7AC3823-B93E-4FF6-AF76-45D4CEE4CB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7AC3823-B93E-4FF6-AF76-45D4CEE4CB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0595158-D493-4095-9B71-E69BC058A393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0595158-D493-4095-9B71-E69BC058A393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0595158-D493-4095-9B71-E69BC058A393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0595158-D493-4095-9B71-E69BC058A393}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
