@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operadores_Logicos", "Opera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura_Condicinal_If_Else", "Estrutura_Condicinal_If_Else\Estrutura_Condicinal_If_Else.csproj", "{FB3006C9-E3CC-4E1E-BA86-D49B0E8A0492}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_Estrutura_condicional", "Exercicio_Estrutura_condicional\Exercicio_Estrutura_condicional.csproj", "{88958413-30CC-480E-BFC9-226D5198FE79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{FB3006C9-E3CC-4E1E-BA86-D49B0E8A0492}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB3006C9-E3CC-4E1E-BA86-D49B0E8A0492}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB3006C9-E3CC-4E1E-BA86-D49B0E8A0492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88958413-30CC-480E-BFC9-226D5198FE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88958413-30CC-480E-BFC9-226D5198FE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88958413-30CC-480E-BFC9-226D5198FE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88958413-30CC-480E-BFC9-226D5198FE79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
