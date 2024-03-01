@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estrutura_Repetitiva_Para(f
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_Triangulo_Sem_POO", "Exerc_Triangulo_Sem_POO\Exerc_Triangulo_Sem_POO.csproj", "{E15B2CCB-3FF6-4A22-A2DE-CF5A9089BCDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_Triangulo_CLASS", "Exerc_Triangulo_CLASS\Exerc_Triangulo_CLASS.csproj", "{C91E6040-2060-4640-918D-43A83DCC48CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{E15B2CCB-3FF6-4A22-A2DE-CF5A9089BCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E15B2CCB-3FF6-4A22-A2DE-CF5A9089BCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E15B2CCB-3FF6-4A22-A2DE-CF5A9089BCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91E6040-2060-4640-918D-43A83DCC48CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91E6040-2060-4640-918D-43A83DCC48CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91E6040-2060-4640-918D-43A83DCC48CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91E6040-2060-4640-918D-43A83DCC48CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
