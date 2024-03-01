@@ -4,7 +4,19 @@ namespace Estrutura_Condicinal_If_Else
 {
     internal class Program
     {
-        /*A estrutura condicional pode ser simples, composta ou encadeada*/
+        /*A estrutura condicional pode ser simples, composta ou encadeada
+         if(condição){
+               comando
+           }
+          else {
+                comando
+            } 
+          se condição for verdadeira executa o comando e pula fora
+          se não, executa o comando do else
+         else if = coloca outra condição 
+          */
+
+
         static void Main(string[] args)
         {
             // simples 
