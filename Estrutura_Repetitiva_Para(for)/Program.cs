@@ -26,11 +26,17 @@ namespace Estrutura_Repetitiva_Para_for_
             Console.Write("Quantos números inteiros você vai digitar? ");
             int N = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i < N; i++)
+
+            int soma = 0;
+            for (int i = 1; i <= N; i++)
             {
-                
-                Console.WriteLine("oi");
+                Console.Write("Valor #{0}: ", i);
+                int valor = int.Parse(Console.ReadLine());
+                soma += valor;
+            
             }
+
+            Console.WriteLine("Soma = " + soma);
         }
     }
 }
