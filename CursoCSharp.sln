@@ -57,7 +57,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_POO_Funcionario", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_POO_Aluno", "Exerc_POO_Aluno\Exerc_POO_Aluno.csproj", "{D33C11E4-4608-4E42-ACC5-70457816E9E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Membros_Estaticos", "Membros_Estaticos\Membros_Estaticos.csproj", "{82CC8BDC-1EDD-4D7F-A109-FB816C62984C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Membros_Estaticos_Versão_1", "Membros_Estaticos\Membros_Estaticos_Versão_1.csproj", "{82CC8BDC-1EDD-4D7F-A109-FB816C62984C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
