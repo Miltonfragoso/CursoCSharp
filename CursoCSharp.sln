@@ -39,15 +39,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estrutura_Repetitiva_Enquan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estrutura_Repetitiva_Para(for)", "Estrutura_Repetitiva_Para(for)\Estrutura_Repetitiva_Para(for).csproj", "{95F62CD7-E93D-4914-870B-91E5D6C867B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_Triangulo_Sem_POO", "Exerc_Triangulo_Sem_POO\Exerc_Triangulo_Sem_POO.csproj", "{E15B2CCB-3FF6-4A22-A2DE-CF5A9089BCDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc_Triangulo_Sem_POO", "Exerc_Triangulo_Sem_POO\Exerc_Triangulo_Sem_POO.csproj", "{E15B2CCB-3FF6-4A22-A2DE-CF5A9089BCDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_Triangulo_CLASS", "Exerc_Triangulo_CLASS\Exerc_Triangulo_CLASS.csproj", "{C91E6040-2060-4640-918D-43A83DCC48CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc_Triangulo_CLASS", "Exerc_Triangulo_CLASS\Exerc_Triangulo_CLASS.csproj", "{C91E6040-2060-4640-918D-43A83DCC48CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_Class_1", "Exerc_Class_1\Exerc_Class_1.csproj", "{D662876D-DF7E-4279-A2A0-4BE3682FF6DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc_Class_1", "Exerc_Class_1\Exerc_Class_1.csproj", "{D662876D-DF7E-4279-A2A0-4BE3682FF6DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_Class_2", "Exerc_Class_2\Exerc_Class_2.csproj", "{58B9B53F-85C5-47DC-9B62-886C49AFC48C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc_Class_2", "Exerc_Class_2\Exerc_Class_2.csproj", "{58B9B53F-85C5-47DC-9B62-886C49AFC48C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_Triangulo_METODO", "Exerc_Triangulo_METODO\Exerc_Triangulo_METODO.csproj", "{6EB7339B-A249-4E0D-AF3D-5282735AE197}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc_Triangulo_METODO", "Exerc_Triangulo_METODO\Exerc_Triangulo_METODO.csproj", "{6EB7339B-A249-4E0D-AF3D-5282735AE197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_POO_Produtos", "Exerc_POO_Produtos\Exerc_POO_Produtos.csproj", "{F2EBAC1E-35EC-44CB-81E0-77F1333F5EB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{6EB7339B-A249-4E0D-AF3D-5282735AE197}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EB7339B-A249-4E0D-AF3D-5282735AE197}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EB7339B-A249-4E0D-AF3D-5282735AE197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2EBAC1E-35EC-44CB-81E0-77F1333F5EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EBAC1E-35EC-44CB-81E0-77F1333F5EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EBAC1E-35EC-44CB-81E0-77F1333F5EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EBAC1E-35EC-44CB-81E0-77F1333F5EB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
