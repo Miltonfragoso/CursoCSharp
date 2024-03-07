@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Membros_Estaticos_Versão_2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Membros_Estaticos_Versao_3", "Membros_Estaticos_Versao_3\Membros_Estaticos_Versao_3.csproj", "{36A06BDA-6E9D-4BA1-A181-48FAC24DD8D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_Membros_Estaticos", "Exerc_Membros_Estaticos\Exerc_Membros_Estaticos.csproj", "{F28E07A9-846D-4DB7-BE5D-260FAA101E48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{36A06BDA-6E9D-4BA1-A181-48FAC24DD8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36A06BDA-6E9D-4BA1-A181-48FAC24DD8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36A06BDA-6E9D-4BA1-A181-48FAC24DD8D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28E07A9-846D-4DB7-BE5D-260FAA101E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28E07A9-846D-4DB7-BE5D-260FAA101E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28E07A9-846D-4DB7-BE5D-260FAA101E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28E07A9-846D-4DB7-BE5D-260FAA101E48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
