@@ -47,6 +47,17 @@ namespace Sobrecarga
 
             Console.WriteLine();
             Console.WriteLine("Dados atualizados " + p);
+
+
+            /*Sintaxe alternativa para inicialização de valores sem a construção do construtor permitido no c#
+             Produto p  = new Produto () {
+                Nome = "TV"
+                Preco = 900.00
+                Quantidade = 0 
+            }
+
+            o objeto recebe os valores direto ao inicializar
+             */
         }
     }
 }
