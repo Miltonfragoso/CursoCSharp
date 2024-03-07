@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_POO_Produtos", "Exerc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_POO_Retangulo", "Exerc_POO_Retangulo\Exerc_POO_Retangulo.csproj", "{965B2610-A8D6-4C91-AB4E-96F509304B1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_POO_Funcionario", "Exerc_POO_Funcionario\Exerc_POO_Funcionario.csproj", "{4CA98525-5285-4920-8AD5-17EE5513607D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{965B2610-A8D6-4C91-AB4E-96F509304B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{965B2610-A8D6-4C91-AB4E-96F509304B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{965B2610-A8D6-4C91-AB4E-96F509304B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA98525-5285-4920-8AD5-17EE5513607D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA98525-5285-4920-8AD5-17EE5513607D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA98525-5285-4920-8AD5-17EE5513607D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA98525-5285-4920-8AD5-17EE5513607D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

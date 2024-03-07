@@ -7,8 +7,8 @@ como mostrado no projeto ao lado.
 
                                                         Retangulo
                                                     ------------------
-                                                     -Largura
-                                                     -Altura
+                                                     -Largura: double
+                                                     -Altura: double
                                                     ------------------- 
                                                     +Area(): double
                                                     +Perimetro(): double
