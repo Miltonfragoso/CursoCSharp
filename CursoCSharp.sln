@@ -71,6 +71,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sobrecarga", "Sobrecarga\So
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palavra_This", "Palavra_This\Palavra_This.csproj", "{59CEE573-8264-4503-8071-8967F8CC1216}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento_Propiedade_Autopropriedade", "Encapsulamento\Encapsulamento_Propiedade_Autopropriedade.csproj", "{40263C32-B436-4828-8728-FFB6FE7A6359}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{59CEE573-8264-4503-8071-8967F8CC1216}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59CEE573-8264-4503-8071-8967F8CC1216}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59CEE573-8264-4503-8071-8967F8CC1216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40263C32-B436-4828-8728-FFB6FE7A6359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40263C32-B436-4828-8728-FFB6FE7A6359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40263C32-B436-4828-8728-FFB6FE7A6359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40263C32-B436-4828-8728-FFB6FE7A6359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
