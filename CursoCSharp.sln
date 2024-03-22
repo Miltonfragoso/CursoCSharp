@@ -77,9 +77,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modificadores_De_Acesso", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc_Conta_Bancaria", "Exerc_Conta_Bancaria\Exerc_Conta_Bancaria.csproj", "{287EADF5-6618-4719-8235-6216464B0FD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetor_Do_Tipo_Extruture", "Vetores\Vetor_Do_Tipo_Extruture.csproj", "{8F4E492B-92D8-4E24-94E5-6D1336A5FDF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetor_Do_Tipo_Extruture", "Vetores\Vetor_Do_Tipo_Extruture.csproj", "{8F4E492B-92D8-4E24-94E5-6D1336A5FDF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetor_Do_Tipo_Class", "Vetor_Do_Tipo_Class\Vetor_Do_Tipo_Class.csproj", "{EE66C334-62CC-4C24-9C6B-DD3A684C76FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetor_Do_Tipo_Class", "Vetor_Do_Tipo_Class\Vetor_Do_Tipo_Class.csproj", "{EE66C334-62CC-4C24-9C6B-DD3A684C76FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_Vetores", "Exerc_Vetores\Exerc_Vetores.csproj", "{29F5611C-5CEE-4BF9-86CF-307AFBF81A08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{EE66C334-62CC-4C24-9C6B-DD3A684C76FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE66C334-62CC-4C24-9C6B-DD3A684C76FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE66C334-62CC-4C24-9C6B-DD3A684C76FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F5611C-5CEE-4BF9-86CF-307AFBF81A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F5611C-5CEE-4BF9-86CF-307AFBF81A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F5611C-5CEE-4BF9-86CF-307AFBF81A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F5611C-5CEE-4BF9-86CF-307AFBF81A08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
