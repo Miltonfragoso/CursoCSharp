@@ -22,6 +22,7 @@ namespace Vetores
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Quantidade de alturas");
             int N = int.Parse(Console.ReadLine());
 
             double[] vet = new double[N];
