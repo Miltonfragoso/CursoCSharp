@@ -91,6 +91,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13 - Exerc_Estru_Sequenc03"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 - Exerc_Estru_Sequenc04", "14 - Exerc_Estru_Sequenc04\14 - Exerc_Estru_Sequenc04.csproj", "{830DE447-5700-420B-B235-DB7E95D968DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 - Exerc_Estru_Sequenc05", "15 - Exerc_Estru_Sequenc05\15 - Exerc_Estru_Sequenc05.csproj", "{D804E856-9982-4FE1-8333-CA60C93699C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{830DE447-5700-420B-B235-DB7E95D968DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{830DE447-5700-420B-B235-DB7E95D968DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{830DE447-5700-420B-B235-DB7E95D968DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D804E856-9982-4FE1-8333-CA60C93699C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D804E856-9982-4FE1-8333-CA60C93699C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D804E856-9982-4FE1-8333-CA60C93699C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D804E856-9982-4FE1-8333-CA60C93699C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
