@@ -20,6 +20,8 @@ namespace _12___Exerc_Estru_Sequenc02
 
             double Area = Math.Pow(N1, 2.0) * p;
 
+            Console.WriteLine();
+
             Console.WriteLine("Saída:");
             Console.WriteLine("A=" + Area.ToString("F4", CultureInfo.InvariantCulture));
         }

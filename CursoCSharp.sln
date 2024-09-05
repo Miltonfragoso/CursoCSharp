@@ -83,11 +83,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetor_Do_Tipo_Class", "Veto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc_Vetores", "Exerc_Vetores\Exerc_Vetores.csproj", "{29F5611C-5CEE-4BF9-86CF-307AFBF81A08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 - Exerc_Estru_Sequenc01", "11 - Exerc_Estru_Sequenc01\11 - Exerc_Estru_Sequenc01.csproj", "{5BDB80E3-9922-47E8-B31E-0CDDAA5172D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11 - Exerc_Estru_Sequenc01", "11 - Exerc_Estru_Sequenc01\11 - Exerc_Estru_Sequenc01.csproj", "{5BDB80E3-9922-47E8-B31E-0CDDAA5172D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 - Exerc_Estru_Sequenc02", "12 - Exerc_Estru_Sequenc02\12 - Exerc_Estru_Sequenc02.csproj", "{20C8FEA0-4AAA-4BC1-AB60-4210A7B49485}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12 - Exerc_Estru_Sequenc02", "12 - Exerc_Estru_Sequenc02\12 - Exerc_Estru_Sequenc02.csproj", "{20C8FEA0-4AAA-4BC1-AB60-4210A7B49485}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 - Exerc_Estru_Sequenc03", "13 - Exerc_Estru_Sequenc03\13 - Exerc_Estru_Sequenc03.csproj", "{0FCF588D-E3AC-477C-A1F7-E4E7ABB56939}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13 - Exerc_Estru_Sequenc03", "13 - Exerc_Estru_Sequenc03\13 - Exerc_Estru_Sequenc03.csproj", "{0FCF588D-E3AC-477C-A1F7-E4E7ABB56939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 - Exerc_Estru_Sequenc04", "14 - Exerc_Estru_Sequenc04\14 - Exerc_Estru_Sequenc04.csproj", "{830DE447-5700-420B-B235-DB7E95D968DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +269,10 @@ Global
 		{0FCF588D-E3AC-477C-A1F7-E4E7ABB56939}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FCF588D-E3AC-477C-A1F7-E4E7ABB56939}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FCF588D-E3AC-477C-A1F7-E4E7ABB56939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830DE447-5700-420B-B235-DB7E95D968DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830DE447-5700-420B-B235-DB7E95D968DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830DE447-5700-420B-B235-DB7E95D968DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830DE447-5700-420B-B235-DB7E95D968DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
