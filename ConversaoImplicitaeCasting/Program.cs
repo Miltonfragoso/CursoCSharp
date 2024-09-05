@@ -14,25 +14,33 @@ namespace ConversaoImplicitaeCasting
 
             Console.WriteLine(y);
 
-            //Conversão explicita (Casting)
+            //Conversão explicita de topo usa o (Casting)
 
             double a;
             float b;
 
             a = 5.1;
 
+            //casting
             b = (float)a;
             Console.WriteLine(b);
 
 
-
+            // 8b e valor quebrado em 4b inteiro
             double c;
             int d;
 
             c = 5.1;
 
-            d = (int)a;
+            d = (int)c;
             Console.WriteLine(d);
+
+            int e = 5;
+            int f = 2;
+
+            //casting
+            double resultado = (double) e / f;
+            Console.WriteLine(resultado);
 
         }
     }

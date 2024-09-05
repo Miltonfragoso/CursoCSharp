@@ -12,7 +12,7 @@ namespace Entrada_De_Dados_2
 
 
             /*Ler um número interiro  35
-             * int.Parse para converter o texto string  == trinta e cincopara o número inteiro 35*/
+             * int.Parse para converter o texto string  == trinta e cinco para o número inteiro 35*/
             int N1 = int.Parse(Console.ReadLine());
 
             /*     
@@ -52,7 +52,7 @@ namespace Entrada_De_Dados_2
             Console.WriteLine(nome);
             Console.WriteLine(sexo);
             Console.WriteLine(idade);
-            Console.WriteLine(altura);
+            Console.WriteLine(altura.ToString("F2",CultureInfo.InvariantCulture));
             Console.WriteLine("------------------------------------------------------------------------");
         }
     }

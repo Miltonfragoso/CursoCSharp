@@ -5,23 +5,23 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-CursoCSharp", "CursoCSharp\01-CursoCSharp.csproj", "{A29822CE-E231-421D-8B06-473D8744B383}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-Comentarios", "Comentarios\2-Comentarios.csproj", "{562702FA-9528-493F-BE90-4789E6256936}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Comentarios", "Comentarios\02-Comentarios.csproj", "{562702FA-9528-493F-BE90-4789E6256936}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-Variaveis", "Variaveis\3-Variaveis.csproj", "{7B67A384-C404-494C-AC21-A15422BB4C40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-Variaveis", "Variaveis\03-Variaveis.csproj", "{7B67A384-C404-494C-AC21-A15422BB4C40}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ExercicioSaidaDados", "EXERCÍCIO\4-ExercicioSaidaDados.csproj", "{FC10E3AC-63C4-40E2-A223-BD9A8296BCCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-ExercicioSaidaDados", "EXERCÍCIO\04-ExercicioSaidaDados.csproj", "{FC10E3AC-63C4-40E2-A223-BD9A8296BCCF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-OperadoresDeAtribuicao", "OperadoresDeAtribuicao\5-OperadoresDeAtribuicao.csproj", "{FFE84019-1D9A-4503-884D-91F6C6C2D798}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-OperadoresDeAtribuicao", "OperadoresDeAtribuicao\05-OperadoresDeAtribuicao.csproj", "{FFE84019-1D9A-4503-884D-91F6C6C2D798}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-ConversaoImplicitaeCasting", "ConversaoImplicitaeCasting\6-ConversaoImplicitaeCasting.csproj", "{57066187-D290-48D3-A30E-883EAFC061CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-ConversaoImplicitaeCasting", "ConversaoImplicitaeCasting\06-ConversaoImplicitaeCasting.csproj", "{57066187-D290-48D3-A30E-883EAFC061CF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-OperadoresAritmeticos", "OperadoresAritmeticos\7-OperadoresAritmeticos.csproj", "{0F100882-3C82-4EDB-937E-ABBB9D78EF32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-OperadoresAritmeticos", "OperadoresAritmeticos\07-OperadoresAritmeticos.csproj", "{0F100882-3C82-4EDB-937E-ABBB9D78EF32}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-Entrada_ De_Dados-1", "Entrada_ De_Dados\8-Entrada_ De_Dados-1.csproj", "{5606B816-992A-4962-96C3-F90ACC2D1C19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-Entrada_ De_Dados-1", "Entrada_ De_Dados\08-Entrada_ De_Dados-1.csproj", "{5606B816-992A-4962-96C3-F90ACC2D1C19}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9- Entrada_De_Dados-2", "Entrada_De_Dados-2\9- Entrada_De_Dados-2.csproj", "{55D34306-DF84-4858-BF45-7F2A38D075CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09- Entrada_De_Dados-2", "Entrada_De_Dados-2\09- Entrada_De_Dados-2.csproj", "{55D34306-DF84-4858-BF45-7F2A38D075CE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioEntradaDeDados", "ExercicioEntradaDeDados\ExercicioEntradaDeDados.csproj", "{A7AC3823-B93E-4FF6-AF76-45D4CEE4CB7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-ExercicioEntradaDeDados", "ExercicioEntradaDeDados\10-ExercicioEntradaDeDados.csproj", "{A7AC3823-B93E-4FF6-AF76-45D4CEE4CB7F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operadores comparativos", "Operadores comparativos\Operadores comparativos.csproj", "{A0595158-D493-4095-9B71-E69BC058A393}"
 EndProject
@@ -81,7 +81,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetor_Do_Tipo_Extruture", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetor_Do_Tipo_Class", "Vetor_Do_Tipo_Class\Vetor_Do_Tipo_Class.csproj", "{EE66C334-62CC-4C24-9C6B-DD3A684C76FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc_Vetores", "Exerc_Vetores\Exerc_Vetores.csproj", "{29F5611C-5CEE-4BF9-86CF-307AFBF81A08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc_Vetores", "Exerc_Vetores\Exerc_Vetores.csproj", "{29F5611C-5CEE-4BF9-86CF-307AFBF81A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 - Exerc_Estru_Sequenc01", "11 - Exerc_Estru_Sequenc01\11 - Exerc_Estru_Sequenc01.csproj", "{5BDB80E3-9922-47E8-B31E-0CDDAA5172D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 - Exerc_Estru_Sequenc02", "12 - Exerc_Estru_Sequenc02\12 - Exerc_Estru_Sequenc02.csproj", "{20C8FEA0-4AAA-4BC1-AB60-4210A7B49485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 - Exerc_Estru_Sequenc03", "13 - Exerc_Estru_Sequenc03\13 - Exerc_Estru_Sequenc03.csproj", "{0FCF588D-E3AC-477C-A1F7-E4E7ABB56939}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +255,18 @@ Global
 		{29F5611C-5CEE-4BF9-86CF-307AFBF81A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29F5611C-5CEE-4BF9-86CF-307AFBF81A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29F5611C-5CEE-4BF9-86CF-307AFBF81A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDB80E3-9922-47E8-B31E-0CDDAA5172D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDB80E3-9922-47E8-B31E-0CDDAA5172D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDB80E3-9922-47E8-B31E-0CDDAA5172D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDB80E3-9922-47E8-B31E-0CDDAA5172D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C8FEA0-4AAA-4BC1-AB60-4210A7B49485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C8FEA0-4AAA-4BC1-AB60-4210A7B49485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C8FEA0-4AAA-4BC1-AB60-4210A7B49485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C8FEA0-4AAA-4BC1-AB60-4210A7B49485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCF588D-E3AC-477C-A1F7-E4E7ABB56939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCF588D-E3AC-477C-A1F7-E4E7ABB56939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCF588D-E3AC-477C-A1F7-E4E7ABB56939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCF588D-E3AC-477C-A1F7-E4E7ABB56939}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

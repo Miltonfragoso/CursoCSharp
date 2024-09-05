@@ -35,7 +35,7 @@ namespace ExercicioEntradaDeDados
             int idade1 = int.Parse(split[1]);
             double altura = double.Parse(split[2], CultureInfo.InvariantCulture);
 
-
+            Console.WriteLine("-------------------------------------------------------------------------------------------------------------");
             Console.WriteLine(nome);
             Console.WriteLine(quartos);
             Console.WriteLine(produto.ToString("F2", CultureInfo.InvariantCulture));

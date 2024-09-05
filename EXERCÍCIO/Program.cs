@@ -23,6 +23,7 @@ namespace EXERCÍCIO
             //EM SEGUIDA, USANDO OS VALORES DAS VARIÁVEIS, PRODUZA A SEGUINTE SAÍDA  NA TELA
             Console.WriteLine("Produtos:");
             Console.WriteLine(produto1 + ", cujo preço é $ " + preco1.ToString("F2"));
+            Console.WriteLine(produto2 + ", cujo preço é $ " + preco2.ToString("F2"));
             Console.WriteLine();
             Console.WriteLine($"Registro: {idade} anos de idade, código {codigo} e gênero: {genero}");
             Console.WriteLine();

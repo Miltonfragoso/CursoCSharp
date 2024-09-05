@@ -17,7 +17,7 @@ namespace Entrada__De_Dados
 
 
             /*Escrever uma frase e armazenar cada palavra em uma variável
-             usamos o comando split('')*/
+             usamos o comando split('') que é uma função que serve para recortar uma string*/
 
             string[] V = Console.ReadLine().Split(' ');
             string a = V[0];

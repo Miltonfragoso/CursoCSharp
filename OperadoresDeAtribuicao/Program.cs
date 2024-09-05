@@ -6,8 +6,9 @@ namespace OperadoresDeAtribuicao
     {
         static void Main(string[] args)
         {
+            //Operador de atribuição (=)
             //Operador de atribuição comulativa
-            //=, +=, -=, *=, /=, %=, ++, --
+            //(+=, -=, *=, /=, %=)
 
             // a recebe 10 
             int a = 10;
@@ -30,7 +31,7 @@ namespace OperadoresDeAtribuicao
             Console.WriteLine(a);
 
 
-            //Operador aritmético / atribuição
+            //Operador aritmético / atribuição(++; --)
             int b = 10;
             Console.WriteLine(b);
 

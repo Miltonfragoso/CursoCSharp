@@ -9,7 +9,7 @@ namespace Variaveis
         {
             /* As variáveis são usadas para guardar informação durante a execução de uma aplicação.
              * quando a aplicação termina o valor da variável deixa de existir
-             * as variáveis s´~ao como caixas preparadas para receber um determinado tipo de dados.
+             * as variáveis são como caixas preparadas para receber um determinado tipo de dados.
              */
 
             int N1 = 0;
@@ -67,7 +67,7 @@ namespace Variaveis
             // Placeholders
             Console.WriteLine("{0} tem {1} anos e tem saldo igual a {2:F2} reais ", Nome, idade, saldo);
             //Concatenação
-            Console.WriteLine(Nome + " tem " + idade + " anos e tem saldo igual a " + saldo.ToString("F4", CultureInfo.InvariantCulture) + " reais ");
+            Console.WriteLine(Nome + " tem " + idade + " anos e tem saldo igual a " + saldo.ToString("F2", CultureInfo.InvariantCulture) + " reais ");
             //Interpolação
             Console.WriteLine($"{Nome} tem {idade} anos e tem saldo igual a {saldo:F2} reais");
         }
