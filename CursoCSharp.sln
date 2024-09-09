@@ -23,13 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09- Entrada_De_Dados-2", "E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-ExercicioEntradaDeDados", "ExercicioEntradaDeDados\10-ExercicioEntradaDeDados.csproj", "{A7AC3823-B93E-4FF6-AF76-45D4CEE4CB7F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operadores comparativos", "Operadores comparativos\Operadores comparativos.csproj", "{A0595158-D493-4095-9B71-E69BC058A393}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17 - Operadores comparativos", "Operadores comparativos\17 - Operadores comparativos.csproj", "{A0595158-D493-4095-9B71-E69BC058A393}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operadores_Logicos", "Operadores_Logicos\Operadores_Logicos.csproj", "{C2376244-E5C3-470D-AF98-BFC28DD03A16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18 - Operadores_Logicos", "Operadores_Logicos\18 - Operadores_Logicos.csproj", "{C2376244-E5C3-470D-AF98-BFC28DD03A16}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estrutura_Condicinal_If_Else", "Estrutura_Condicinal_If_Else\Estrutura_Condicinal_If_Else.csproj", "{FB3006C9-E3CC-4E1E-BA86-D49B0E8A0492}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19 - Estrutura_Condicinal_If_Else", "Estrutura_Condicinal_If_Else\19 - Estrutura_Condicinal_If_Else.csproj", "{FB3006C9-E3CC-4E1E-BA86-D49B0E8A0492}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_Estrutura_condicional", "Exercicio_Estrutura_condicional\Exercicio_Estrutura_condicional.csproj", "{88958413-30CC-480E-BFC9-226D5198FE79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20 - Exercicio_Estrutura_condicional", "Exercicio_Estrutura_condicional\20 - Exercicio_Estrutura_condicional.csproj", "{88958413-30CC-480E-BFC9-226D5198FE79}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funções(Sintax)", "Funções(Sintax)\Funções(Sintax).csproj", "{CDFF7FCC-6658-4661-BBAD-9FA3849610D1}"
 EndProject
@@ -89,11 +89,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12 - Exerc_Estru_Sequenc02"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13 - Exerc_Estru_Sequenc03", "13 - Exerc_Estru_Sequenc03\13 - Exerc_Estru_Sequenc03.csproj", "{0FCF588D-E3AC-477C-A1F7-E4E7ABB56939}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 - Exerc_Estru_Sequenc04", "14 - Exerc_Estru_Sequenc04\14 - Exerc_Estru_Sequenc04.csproj", "{830DE447-5700-420B-B235-DB7E95D968DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14 - Exerc_Estru_Sequenc04", "14 - Exerc_Estru_Sequenc04\14 - Exerc_Estru_Sequenc04.csproj", "{830DE447-5700-420B-B235-DB7E95D968DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 - Exerc_Estru_Sequenc05", "15 - Exerc_Estru_Sequenc05\15 - Exerc_Estru_Sequenc05.csproj", "{D804E856-9982-4FE1-8333-CA60C93699C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15 - Exerc_Estru_Sequenc05", "15 - Exerc_Estru_Sequenc05\15 - Exerc_Estru_Sequenc05.csproj", "{D804E856-9982-4FE1-8333-CA60C93699C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 - Exerc_Estru_Sequenc06", "16 - Exerc_Estru_Sequenc06\16 - Exerc_Estru_Sequenc06.csproj", "{89B037A2-B343-4FC2-8F50-EBD0BFC09FED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16 - Exerc_Estru_Sequenc06", "16 - Exerc_Estru_Sequenc06\16 - Exerc_Estru_Sequenc06.csproj", "{89B037A2-B343-4FC2-8F50-EBD0BFC09FED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
