@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19 - Estrutura_Condicinal_I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20 - Exercicio_Estrutura_condicional", "Exercicio_Estrutura_condicional\20 - Exercicio_Estrutura_condicional.csproj", "{88958413-30CC-480E-BFC9-226D5198FE79}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funções(Sintax)", "Funções(Sintax)\Funções(Sintax).csproj", "{CDFF7FCC-6658-4661-BBAD-9FA3849610D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21 - Funções(Sintax)", "Funções(Sintax)\21 - Funções(Sintax).csproj", "{CDFF7FCC-6658-4661-BBAD-9FA3849610D1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debugging", "Debugging\Debugging.csproj", "{0EFFCA09-6CEF-45B3-B15D-8163D2E10DAA}"
 EndProject

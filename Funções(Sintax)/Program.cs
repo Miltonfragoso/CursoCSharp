@@ -26,7 +26,7 @@ namespace Funções_Sintax_
             int n2 = int.Parse(Console.ReadLine());
             int n3 = int.Parse(Console.ReadLine());
 
-            //lógica
+            //lógica com estrutura condicional
             if(n1 > n2 && n1 > n3)
             {
                 Console.WriteLine("Maior = " + n1);
