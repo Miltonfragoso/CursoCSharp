@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30 - Exerc_Estrut_Reptit_Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31 - Exerc_Estrut_Reptit_Para(for)06", "31 - Exerc_Estrut_Reptit_Para(for)06\31 - Exerc_Estrut_Reptit_Para(for)06.csproj", "{3B43EAA8-EC16-40F6-8CB7-578703A8E786}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32 - Exerc_Estrut_Reptit_Para(for)07", "32 - Exerc_Estrut_Reptit_Para(for)07\32 - Exerc_Estrut_Reptit_Para(for)07.csproj", "{D665CC8D-A651-49C9-BD62-456037081AF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +329,10 @@ Global
 		{3B43EAA8-EC16-40F6-8CB7-578703A8E786}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B43EAA8-EC16-40F6-8CB7-578703A8E786}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B43EAA8-EC16-40F6-8CB7-578703A8E786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D665CC8D-A651-49C9-BD62-456037081AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D665CC8D-A651-49C9-BD62-456037081AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D665CC8D-A651-49C9-BD62-456037081AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D665CC8D-A651-49C9-BD62-456037081AF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
