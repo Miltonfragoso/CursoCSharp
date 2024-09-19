@@ -14,13 +14,13 @@ namespace Exerc_Class_1
             Pessoa pessoa1 = new Pessoa();
             Pessoa pessoa2 = new Pessoa();
 
-            Console.WriteLine("Digite Dados da primeira pessoa: ");
+            Console.WriteLine("Digite os Dados da primeira pessoa: ");
             Console.WriteLine("Nome: ");
             pessoa1.Nome = Console.ReadLine();
             Console.WriteLine("Idade: ");
             pessoa1.idade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite Dados da Segunda pessoa: ");
+            Console.WriteLine("Digite os Dados da Segunda pessoa: ");
             Console.WriteLine("Nome: ");
             pessoa2.Nome = Console.ReadLine();
             Console.WriteLine("Idade: ");

@@ -43,11 +43,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33 - Exerc_Triangulo_Sem_PO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34 - Exerc_Triangulo_CLASS", "Exerc_Triangulo_CLASS\34 - Exerc_Triangulo_CLASS.csproj", "{C91E6040-2060-4640-918D-43A83DCC48CE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc_Class_1", "Exerc_Class_1\Exerc_Class_1.csproj", "{D662876D-DF7E-4279-A2A0-4BE3682FF6DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35 - Exerc_Class_1", "Exerc_Class_1\35 - Exerc_Class_1.csproj", "{D662876D-DF7E-4279-A2A0-4BE3682FF6DC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc_Class_2", "Exerc_Class_2\Exerc_Class_2.csproj", "{58B9B53F-85C5-47DC-9B62-886C49AFC48C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36 - Exerc_Class_2", "Exerc_Class_2\36 - Exerc_Class_2.csproj", "{58B9B53F-85C5-47DC-9B62-886C49AFC48C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc_Triangulo_METODO", "Exerc_Triangulo_METODO\Exerc_Triangulo_METODO.csproj", "{6EB7339B-A249-4E0D-AF3D-5282735AE197}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37 - Exerc_Triangulo_METODO", "Exerc_Triangulo_METODO\37 - Exerc_Triangulo_METODO.csproj", "{6EB7339B-A249-4E0D-AF3D-5282735AE197}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc_POO_Produtos", "Exerc_POO_Produtos\Exerc_POO_Produtos.csproj", "{F2EBAC1E-35EC-44CB-81E0-77F1333F5EB4}"
 EndProject
@@ -105,11 +105,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28 - Exerc_Estrutura_Para(f
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29 - Exerc_Estrutura_Para(for)04", "29 - Exerc_Estrutura_Para(for)04\29 - Exerc_Estrutura_Para(for)04.csproj", "{F9314B48-3677-4BCB-93D4-D35476533532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30 - Exerc_Estrut_Reptit_Para(for)05", "30 - Exerc_Estrut_Reptit_For(Para)\30 - Exerc_Estrut_Reptit_Para(for)05.csproj", "{A7230A23-8B55-4B48-91F8-40D009EDDED8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30 - Exerc_Estrut_Reptit_Para(for)05", "30 - Exerc_Estrut_Reptit_For(Para)\30 - Exerc_Estrut_Reptit_Para(for)05.csproj", "{A7230A23-8B55-4B48-91F8-40D009EDDED8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31 - Exerc_Estrut_Reptit_Para(for)06", "31 - Exerc_Estrut_Reptit_Para(for)06\31 - Exerc_Estrut_Reptit_Para(for)06.csproj", "{3B43EAA8-EC16-40F6-8CB7-578703A8E786}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31 - Exerc_Estrut_Reptit_Para(for)06", "31 - Exerc_Estrut_Reptit_Para(for)06\31 - Exerc_Estrut_Reptit_Para(for)06.csproj", "{3B43EAA8-EC16-40F6-8CB7-578703A8E786}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32 - Exerc_Estrut_Reptit_Para(for)07", "32 - Exerc_Estrut_Reptit_Para(for)07\32 - Exerc_Estrut_Reptit_Para(for)07.csproj", "{D665CC8D-A651-49C9-BD62-456037081AF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32 - Exerc_Estrut_Reptit_Para(for)07", "32 - Exerc_Estrut_Reptit_Para(for)07\32 - Exerc_Estrut_Reptit_Para(for)07.csproj", "{D665CC8D-A651-49C9-BD62-456037081AF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
