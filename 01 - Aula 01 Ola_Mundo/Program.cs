@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _01___Aula_01_Ola_Mundo
+namespace OlaMundo
 {
     internal class Program
     {

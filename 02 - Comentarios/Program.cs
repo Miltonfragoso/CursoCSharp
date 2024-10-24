@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _02___Comentarios
+namespace Comentarios
 {
     internal class Program
     {

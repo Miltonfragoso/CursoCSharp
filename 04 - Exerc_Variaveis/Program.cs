@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace _04___Exerc_Variaveis
+namespace ExercVariaveis
 {
     internal class Program
     {

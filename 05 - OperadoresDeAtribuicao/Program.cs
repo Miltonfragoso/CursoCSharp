@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _05___OperadoresDeAtribuicao
+namespace OperadoresDeAtribuicao
 {
     internal class Program
     {

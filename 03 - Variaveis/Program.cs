@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace _03___Variaveis
+namespace Variaveis
 {
     internal class Program
     {
