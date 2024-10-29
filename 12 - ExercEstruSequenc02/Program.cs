@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace _12___ExercEstruSequenc02
+namespace ExercEstruSequenc02
 {
     internal class Program
     {
