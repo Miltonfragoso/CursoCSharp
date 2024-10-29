@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace _14___ExercEstruSequenc04
+namespace ExercEstruSequenc04
 {
     internal class Program
     {
