@@ -11,17 +11,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03 - Variaveis", "03 - Vari
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04 - Exerc_Variaveis", "04 - Exerc_Variaveis\04 - Exerc_Variaveis.csproj", "{0E580C6E-BD0A-4750-A20D-0A1482563C16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - OperadoresDeAtribuicao", "05 - OperadoresDeAtribuicao\05 - OperadoresDeAtribuicao.csproj", "{525E5571-2CCA-4862-A786-D0155B6CFDEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05 - OperadoresDeAtribuicao", "05 - OperadoresDeAtribuicao\05 - OperadoresDeAtribuicao.csproj", "{525E5571-2CCA-4862-A786-D0155B6CFDEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 - ConversaoImplicitaeCasting", "06 - ConversaoImplicitaeCasting\06 - ConversaoImplicitaeCasting.csproj", "{70DCD788-034B-49DB-92CF-07832892DB88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06 - ConversaoImplicitaeCasting", "06 - ConversaoImplicitaeCasting\06 - ConversaoImplicitaeCasting.csproj", "{70DCD788-034B-49DB-92CF-07832892DB88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 - OperadoresAritmeticos", "07 - OperadoresAritmeticos\07 - OperadoresAritmeticos.csproj", "{F6297ED8-31A5-4CB6-806F-51926DF1FC5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07 - OperadoresAritmeticos", "07 - OperadoresAritmeticos\07 - OperadoresAritmeticos.csproj", "{F6297ED8-31A5-4CB6-806F-51926DF1FC5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 - EntradaDeDados", "08 - EntradaDeDados\08 - EntradaDeDados.csproj", "{8E3985C3-F55A-4556-B275-5F314FB6D4D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08 - EntradaDeDados", "08 - EntradaDeDados\08 - EntradaDeDados.csproj", "{8E3985C3-F55A-4556-B275-5F314FB6D4D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - ExercEntradaDeDados", "09 - ExercEntradaDeDados\09 - ExercEntradaDeDados.csproj", "{12ACADA2-5DF0-49D1-8D28-B63D64E55319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09 - ExercEntradaDeDados", "09 - ExercEntradaDeDados\09 - ExercEntradaDeDados.csproj", "{12ACADA2-5DF0-49D1-8D28-B63D64E55319}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - ExercEntradaDeDados", "10 - ExercEntradaDeDados\10 - ExercEntradaDeDados.csproj", "{0E8DB06C-2921-46BB-B7B3-2A7C4A9C0AB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - ExercEntradaDeDados", "10 - ExercEntradaDeDados\10 - ExercEntradaDeDados.csproj", "{0E8DB06C-2921-46BB-B7B3-2A7C4A9C0AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 - ExercEstruSequenc01", "11 - ExercEstruSequenc01\11 - ExercEstruSequenc01.csproj", "{8D73B027-3C81-4CED-9C4E-96702924A12F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{0E8DB06C-2921-46BB-B7B3-2A7C4A9C0AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E8DB06C-2921-46BB-B7B3-2A7C4A9C0AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E8DB06C-2921-46BB-B7B3-2A7C4A9C0AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D73B027-3C81-4CED-9C4E-96702924A12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D73B027-3C81-4CED-9C4E-96702924A12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D73B027-3C81-4CED-9C4E-96702924A12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D73B027-3C81-4CED-9C4E-96702924A12F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
