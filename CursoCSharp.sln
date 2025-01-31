@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16 - ExercEstruSequenc06", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 - OperadoresComparativos", "17 - OperadoresComparativos\17 - OperadoresComparativos.csproj", "{5ED9DD10-C3BC-4853-A424-69472CE6F195}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18 - OperadoresLogicos", "18 - OperadoresLogicos\18 - OperadoresLogicos.csproj", "{36D0B0CF-2067-4BA4-A08D-A2B797A0A3B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{5ED9DD10-C3BC-4853-A424-69472CE6F195}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ED9DD10-C3BC-4853-A424-69472CE6F195}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ED9DD10-C3BC-4853-A424-69472CE6F195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D0B0CF-2067-4BA4-A08D-A2B797A0A3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D0B0CF-2067-4BA4-A08D-A2B797A0A3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D0B0CF-2067-4BA4-A08D-A2B797A0A3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D0B0CF-2067-4BA4-A08D-A2B797A0A3B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
