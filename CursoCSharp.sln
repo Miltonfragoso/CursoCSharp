@@ -35,13 +35,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15 - ExercEstruSequenc05", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16 - ExercEstruSequenc06", "16 - ExercEstruSequenc06\16 - ExercEstruSequenc06.csproj", "{CD6E59EF-070E-463B-9D78-C28A72875CE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 - OperadoresComparativos", "17 - OperadoresComparativos\17 - OperadoresComparativos.csproj", "{5ED9DD10-C3BC-4853-A424-69472CE6F195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17 - OperadoresComparativos", "17 - OperadoresComparativos\17 - OperadoresComparativos.csproj", "{5ED9DD10-C3BC-4853-A424-69472CE6F195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18 - OperadoresLogicos", "18 - OperadoresLogicos\18 - OperadoresLogicos.csproj", "{36D0B0CF-2067-4BA4-A08D-A2B797A0A3B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18 - OperadoresLogicos", "18 - OperadoresLogicos\18 - OperadoresLogicos.csproj", "{36D0B0CF-2067-4BA4-A08D-A2B797A0A3B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 - EstruturaCondicionalIfElse", "19 - EstruturaCondicionalIfElse\19 - EstruturaCondicionalIfElse.csproj", "{9B6408A2-FA35-465A-8FCD-0EBCB8379459}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19 - EstruturaCondicionalIfElse", "19 - EstruturaCondicionalIfElse\19 - EstruturaCondicionalIfElse.csproj", "{9B6408A2-FA35-465A-8FCD-0EBCB8379459}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 - ExerciciosEstruturaCondicionalIfElse", "20 - ExerciciosEstruturaCondicionalIfElse\20 - ExerciciosEstruturaCondicionalIfElse.csproj", "{C3340505-0374-4CCC-9D64-FFB4E01C7FB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20 - ExerciciosEstruturaCondicionalIfElse", "20 - ExerciciosEstruturaCondicionalIfElse\20 - ExerciciosEstruturaCondicionalIfElse.csproj", "{C3340505-0374-4CCC-9D64-FFB4E01C7FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21 - Funcao", "21 - Funcao\21 - Funcao.csproj", "{153D4AA2-911B-48C1-B507-1B7C7224A818}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{C3340505-0374-4CCC-9D64-FFB4E01C7FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3340505-0374-4CCC-9D64-FFB4E01C7FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3340505-0374-4CCC-9D64-FFB4E01C7FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153D4AA2-911B-48C1-B507-1B7C7224A818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153D4AA2-911B-48C1-B507-1B7C7224A818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153D4AA2-911B-48C1-B507-1B7C7224A818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153D4AA2-911B-48C1-B507-1B7C7224A818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

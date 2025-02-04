@@ -2,6 +2,8 @@
 using System.Globalization;
 
 namespace Variaveis
+    /*ESCOPO DE UMA VARIÁVEL: É A REGIÃO DO PROGRAMA ONDE A VARIÁVEL É VÁLIDA,OU SEJA ONDE ELA PODE SER REFERENCIADA*/
+    /*UMA VARIÁVEL NÃO PODE SER USADA SE NÃO FOR INICIADA*/
 {
     internal class Program
     {
