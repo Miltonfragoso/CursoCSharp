@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _26___ExercicioEstruturaRepeticaoPara_For_01
+namespace ExercicioEstruturaRepeticaoParFor01
 {
     internal class Program
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _30___ExercicioEstrtuturaPara_For_05
+namespace ExercicioEstrtuturaParaFor05
 {
     internal class Program
     {

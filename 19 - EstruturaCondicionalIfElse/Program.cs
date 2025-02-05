@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _19___EstruturaCondicionalIfElse
+namespace EstruturaCondicionalIfElse
 {
     internal class Program
     {

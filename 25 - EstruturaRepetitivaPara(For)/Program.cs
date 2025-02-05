@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _25___EstruturaRepetitivaPara_For_
+namespace EstruturaRepetitivaParaFor
 {
     internal class Program
         {   /*A estrutura de repetição FOR, usamos quando conhecemos a quantidade de repetição ou uma contagem

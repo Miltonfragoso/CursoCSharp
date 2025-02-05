@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace _28___ExercicioEstrtuturaPara_For_03
+namespace ExercicioEstrtuturaParaFor03
 {
     internal class Program
     {

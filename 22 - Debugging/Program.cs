@@ -13,7 +13,8 @@ namespace Debugging
            F11 - executar um posso (entra na função/método)
            SHIFT+F11 - sair da função/método em execução
            SHIFT+F5 - para o debug
-           Ctrl+b - Compila sem rodar a aplicação*/
+           Ctrl+b - Compila sem rodar a aplicação
+           F12 - Entra no método*/
 
            
 

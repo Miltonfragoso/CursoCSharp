@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _18___OperadoresLogicos
+namespace OperadoresLogicos
 {
     internal class Program
     {

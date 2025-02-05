@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace _24___ExerciciosEstruturaRepetitivaEnquanto_While_
+namespace ExerciciosEstruturaRepetitivaEnquantoWhile
 {
     internal class Program
     {

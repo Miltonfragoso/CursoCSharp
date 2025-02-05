@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace _20___ExerciciosEstruturaCondicionalIfElse
+namespace ExerciciosEstruturaCondicionalIfElse
 {
     internal class Program
     {

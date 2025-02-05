@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace _23___EstruturaRepetitivaEnquanto_While_
+namespace EstruturaRepetitivaEnquanto_While_
 {
     internal class Program
     {   /*A estrutura repetitiva enquanto, executa o comando enquanto a condição for verdadeira so vai pular fora quando a condição for falsa

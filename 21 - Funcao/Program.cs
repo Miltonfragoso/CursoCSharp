@@ -13,7 +13,7 @@ Funções podem ou não retornar uma saída
  Em orientação a objetos, funções em classes recebem o nome de métodos*/
 using System;
 
-namespace _21___Funcao
+namespace Funcao
 {
     internal class Program
     {
