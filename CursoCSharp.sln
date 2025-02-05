@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28 - ExercicioEstrtuturaPar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29 - ExercicioEstrtuturaPara(For)04", "29 - ExercicioEstrtuturaPara(For)04\29 - ExercicioEstrtuturaPara(For)04.csproj", "{FDE762CF-3848-46DA-8C5D-D6A9581E4D85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30 - ExercicioEstrtuturaPara(For)05", "30 - ExercicioEstrtuturaPara(For)05\30 - ExercicioEstrtuturaPara(For)05.csproj", "{FF2A884D-B199-4736-A2DD-8A268B22FD90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{FDE762CF-3848-46DA-8C5D-D6A9581E4D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDE762CF-3848-46DA-8C5D-D6A9581E4D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDE762CF-3848-46DA-8C5D-D6A9581E4D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF2A884D-B199-4736-A2DD-8A268B22FD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2A884D-B199-4736-A2DD-8A268B22FD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2A884D-B199-4736-A2DD-8A268B22FD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2A884D-B199-4736-A2DD-8A268B22FD90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
