@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _17___OperadoresComparativos
+namespace OperadoresComparativos
 {
     internal class Program
     {
