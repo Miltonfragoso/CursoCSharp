@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23 - EstruturaRepetitivaEnq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24 - ExerciciosEstruturaRepetitivaEnquanto(While)", "24 - ExerciciosEstruturaRepetitivaEnquanto(While)\24 - ExerciciosEstruturaRepetitivaEnquanto(While).csproj", "{D076A5B4-5C17-4433-8FD7-C6161132564D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25 - EstruturaRepetitivaPara(For)", "25 - EstruturaRepetitivaPara(For)\25 - EstruturaRepetitivaPara(For).csproj", "{5653412F-5009-43A8-BD61-845CA145C51D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{D076A5B4-5C17-4433-8FD7-C6161132564D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D076A5B4-5C17-4433-8FD7-C6161132564D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D076A5B4-5C17-4433-8FD7-C6161132564D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5653412F-5009-43A8-BD61-845CA145C51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5653412F-5009-43A8-BD61-845CA145C51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5653412F-5009-43A8-BD61-845CA145C51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5653412F-5009-43A8-BD61-845CA145C51D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
