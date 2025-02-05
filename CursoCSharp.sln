@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25 - EstruturaRepetitivaPar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26 - ExercicioEstruturaRepeticaoPara(For)01", "26 - ExercicioEstruturaRepeticaoPara(For)01\26 - ExercicioEstruturaRepeticaoPara(For)01.csproj", "{F9B24E94-996E-4077-8550-3E3A97955708}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27 - ExercicioEstrtuturaPara(For)02", "27 - ExercicioEstrtuturaPara(For)02\27 - ExercicioEstrtuturaPara(For)02.csproj", "{08A68E5D-5919-425F-AFA8-A8B3D4EF3745}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{F9B24E94-996E-4077-8550-3E3A97955708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9B24E94-996E-4077-8550-3E3A97955708}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9B24E94-996E-4077-8550-3E3A97955708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A68E5D-5919-425F-AFA8-A8B3D4EF3745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A68E5D-5919-425F-AFA8-A8B3D4EF3745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A68E5D-5919-425F-AFA8-A8B3D4EF3745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A68E5D-5919-425F-AFA8-A8B3D4EF3745}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
