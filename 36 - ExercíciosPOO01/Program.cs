@@ -1,7 +1,19 @@
-﻿using System;
+﻿/*Fazer um programa para ler os valores da largura e altura de um retângulo. Em
+seguida, mostrar na tela o valor de sua área, perímetro e diagonal. Usar uma classe
+como mostrado no projeto ao lado.
+
+                                                        Retangulo
+                                                    ------------------
+                                                     -Largura: double
+                                                     -Altura: double
+                                                    ------------------- 
+                                                    +Area(): double
+                                                    +Perimetro(): double
+                                                    +Diagonal(): double*/
+using System;
 using System.Globalization;
 
-namespace _36___ExercíciosPOO01
+namespace ExercíciosPOO01
 {
     internal class Program
     {
