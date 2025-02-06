@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33 - ExercicioTrianguloSemP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34 - ExercicioTrianguloComPOO", "34 - ExercicioTrianguloComPOO\34 - ExercicioTrianguloComPOO.csproj", "{0F74EA1F-D4BE-42E9-83D3-DFE631D32ADD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35 - ExercicioProdutoPOO", "35 - ExercicioProdutoPOO\35 - ExercicioProdutoPOO.csproj", "{31AC20BA-1367-441F-A34B-583B14D18663}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{0F74EA1F-D4BE-42E9-83D3-DFE631D32ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F74EA1F-D4BE-42E9-83D3-DFE631D32ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F74EA1F-D4BE-42E9-83D3-DFE631D32ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AC20BA-1367-441F-A34B-583B14D18663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AC20BA-1367-441F-A34B-583B14D18663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AC20BA-1367-441F-A34B-583B14D18663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AC20BA-1367-441F-A34B-583B14D18663}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
