@@ -2,6 +2,7 @@
  *São membros que fazem sentido independente do objeto.Não precisam de objeto para serem chamados
  *são chamados apartir do própio nome da classe.
  *
+ *UMA CLASSE CUJO OS ATRIBUTOS TEM VALORES FIXOS COMO EXEMPLO PI= 3.14, SAO MEMBROS ESTATICOS E NÃO PRECISAM SER INSTANCIADOS
  *Aplicações comuns:
  *Classeutilitárias
  *Declaração de constantes

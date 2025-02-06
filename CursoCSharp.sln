@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38 - ExercicoPOO03", "38 - 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39 - MembrosEstaticosParte01", "39 - MembrosEstaticosParte01\39 - MembrosEstaticosParte01.csproj", "{5C7477FB-1549-488B-AB08-21F0FDFAF90B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40 - MembrosEstaticosParte02", "40 - MembrosEstaticosParte02\40 - MembrosEstaticosParte02.csproj", "{A7653F7E-C740-42E4-A221-528CA3F8DDEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{5C7477FB-1549-488B-AB08-21F0FDFAF90B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C7477FB-1549-488B-AB08-21F0FDFAF90B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C7477FB-1549-488B-AB08-21F0FDFAF90B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7653F7E-C740-42E4-A221-528CA3F8DDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7653F7E-C740-42E4-A221-528CA3F8DDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7653F7E-C740-42E4-A221-528CA3F8DDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7653F7E-C740-42E4-A221-528CA3F8DDEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
