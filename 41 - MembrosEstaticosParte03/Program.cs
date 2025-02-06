@@ -1,4 +1,5 @@
-﻿/*A grande questão nos membros estaticos são os atributos da classe que tem os valores fixos
+﻿/*A grande questão nos membros estaticos são os atributos da classe é estatico e tem os valores fixos, os métodos por 
+ * sua vez são estaticos também.
  * os valores dos atributos não mudam.
  * Uma classe cujo os atributos tem valores fixos não precisamos instanciar atraves da classe podemos
  * chamar direto suas funções.
