@@ -77,15 +77,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36 - ExercíciosPOO01", "36
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37 - ExerciciosPOO02", "37 - ExerciciosPOO02\37 - ExerciciosPOO02.csproj", "{04328A78-96B0-474D-A0F2-451367528239}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38 - ExercicoPOO03", "38 - ExercicoPOO03\38 - ExercicoPOO03.csproj", "{87E5CDE4-D311-4DBD-8500-998A84FDA750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "38 - ExercicoPOO03", "38 - ExercicoPOO03\38 - ExercicoPOO03.csproj", "{87E5CDE4-D311-4DBD-8500-998A84FDA750}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39 - MembrosEstaticosParte01", "39 - MembrosEstaticosParte01\39 - MembrosEstaticosParte01.csproj", "{5C7477FB-1549-488B-AB08-21F0FDFAF90B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39 - MembrosEstaticosParte01", "39 - MembrosEstaticosParte01\39 - MembrosEstaticosParte01.csproj", "{5C7477FB-1549-488B-AB08-21F0FDFAF90B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40 - MembrosEstaticosParte02", "40 - MembrosEstaticosParte02\40 - MembrosEstaticosParte02.csproj", "{A7653F7E-C740-42E4-A221-528CA3F8DDEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40 - MembrosEstaticosParte02", "40 - MembrosEstaticosParte02\40 - MembrosEstaticosParte02.csproj", "{A7653F7E-C740-42E4-A221-528CA3F8DDEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41 - MembrosEstaticosParte03", "41 - MembrosEstaticosParte03\41 - MembrosEstaticosParte03.csproj", "{957BB34A-BA09-4A30-AE9E-2A5082AAEC47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "41 - MembrosEstaticosParte03", "41 - MembrosEstaticosParte03\41 - MembrosEstaticosParte03.csproj", "{957BB34A-BA09-4A30-AE9E-2A5082AAEC47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42 - ExercicioMembroEstatico", "42 - ExercicioMembroEstatico\42 - ExercicioMembroEstatico.csproj", "{19F3336E-50E7-4326-B6B0-4680E47C6FB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "42 - ExercicioMembroEstatico", "42 - ExercicioMembroEstatico\42 - ExercicioMembroEstatico.csproj", "{19F3336E-50E7-4326-B6B0-4680E47C6FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43 - Construtores", "43 - Construtores\43 - Construtores.csproj", "{C3E698DD-06E1-4252-AFB2-1D23CA6A1777}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,10 @@ Global
 		{19F3336E-50E7-4326-B6B0-4680E47C6FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19F3336E-50E7-4326-B6B0-4680E47C6FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19F3336E-50E7-4326-B6B0-4680E47C6FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E698DD-06E1-4252-AFB2-1D23CA6A1777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E698DD-06E1-4252-AFB2-1D23CA6A1777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E698DD-06E1-4252-AFB2-1D23CA6A1777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E698DD-06E1-4252-AFB2-1D23CA6A1777}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
