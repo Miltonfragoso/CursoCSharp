@@ -97,6 +97,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "46 - Encapsulamento", "46 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47 - PropiedadeE Autopropriedades", "47 - PropiedadeE Autopropriedades\47 - PropiedadeE Autopropriedades.csproj", "{78F85B92-A901-4AA0-BCFA-ECCCD050E89D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48 - ModificadoresDeAcesso", "48 - ModificadoresDeAcesso\48 - ModificadoresDeAcesso.csproj", "{13F46061-36F9-4574-BACE-D6CA4118CB25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{78F85B92-A901-4AA0-BCFA-ECCCD050E89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78F85B92-A901-4AA0-BCFA-ECCCD050E89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78F85B92-A901-4AA0-BCFA-ECCCD050E89D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F46061-36F9-4574-BACE-D6CA4118CB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F46061-36F9-4574-BACE-D6CA4118CB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F46061-36F9-4574-BACE-D6CA4118CB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F46061-36F9-4574-BACE-D6CA4118CB25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

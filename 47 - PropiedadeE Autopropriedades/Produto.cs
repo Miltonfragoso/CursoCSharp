@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 
-namespace _47___PropiedadeE_Autopropriedades
+namespace PropiedadeE_Autopropriedades
 {
     internal class Produto
     {

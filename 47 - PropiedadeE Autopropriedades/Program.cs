@@ -12,7 +12,7 @@ necessitam lógicas particulares para as operações get e set.
 */
 using System;
 
-namespace _47___PropiedadeE_Autopropriedades
+namespace PropiedadeE_Autopropriedades
 {
     internal class Program
     {
