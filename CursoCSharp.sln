@@ -95,11 +95,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "45 - PalavraThis", "45 - Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "46 - Encapsulamento", "46 - Encapsulamento\46 - Encapsulamento.csproj", "{C9662930-6B71-440D-B67B-9A0A4B7714E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47 - PropiedadeE Autopropriedades", "47 - PropiedadeE Autopropriedades\47 - PropiedadeE Autopropriedades.csproj", "{78F85B92-A901-4AA0-BCFA-ECCCD050E89D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "47 - PropiedadeE Autopropriedades", "47 - PropiedadeE Autopropriedades\47 - PropiedadeE Autopropriedades.csproj", "{78F85B92-A901-4AA0-BCFA-ECCCD050E89D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48 - ModificadoresDeAcesso", "48 - ModificadoresDeAcesso\48 - ModificadoresDeAcesso.csproj", "{13F46061-36F9-4574-BACE-D6CA4118CB25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "48 - ModificadoresDeAcesso", "48 - ModificadoresDeAcesso\48 - ModificadoresDeAcesso.csproj", "{13F46061-36F9-4574-BACE-D6CA4118CB25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49 - ExercicioContaBancaria", "49 - ExercicioContaBancaria\49 - ExercicioContaBancaria.csproj", "{7EA48117-4C16-4B70-BEAF-F887F5F78A99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "49 - ExercicioContaBancaria", "49 - ExercicioContaBancaria\49 - ExercicioContaBancaria.csproj", "{7EA48117-4C16-4B70-BEAF-F887F5F78A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50 - TiposReferenciaTiposValor", "50 - TiposReferenciaTiposValor\50 - TiposReferenciaTiposValor.csproj", "{6B2E59B6-9E7D-4D51-8D73-851736129036}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{7EA48117-4C16-4B70-BEAF-F887F5F78A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EA48117-4C16-4B70-BEAF-F887F5F78A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EA48117-4C16-4B70-BEAF-F887F5F78A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2E59B6-9E7D-4D51-8D73-851736129036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2E59B6-9E7D-4D51-8D73-851736129036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2E59B6-9E7D-4D51-8D73-851736129036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2E59B6-9E7D-4D51-8D73-851736129036}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
