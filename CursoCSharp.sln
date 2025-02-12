@@ -105,6 +105,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "50 - TiposReferenciaTiposVa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51 - DesalocacaoDeMemoriaGarbageEscopo", "51 - DesalocacaoDeMemoriaGarbageEscopo\51 - DesalocacaoDeMemoriaGarbageEscopo.csproj", "{9D8152CA-AF80-4E57-9293-FF1CCD56EC16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "52 - Nullable", "52 - Nullable\52 - Nullable.csproj", "{C9E104C8-4E65-4682-B5AE-A50F5D49F691}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{9D8152CA-AF80-4E57-9293-FF1CCD56EC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D8152CA-AF80-4E57-9293-FF1CCD56EC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D8152CA-AF80-4E57-9293-FF1CCD56EC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E104C8-4E65-4682-B5AE-A50F5D49F691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E104C8-4E65-4682-B5AE-A50F5D49F691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E104C8-4E65-4682-B5AE-A50F5D49F691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E104C8-4E65-4682-B5AE-A50F5D49F691}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
