@@ -111,6 +111,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "53 - VetoresDoTipoExtruture
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54 - VetoresDoTpoClassPOO", "54 - VetoresDoTpoClassPOO\54 - VetoresDoTpoClassPOO.csproj", "{0C709056-8FAF-40AE-AA73-8F742E287165}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55 - ExercicioVetorDoTipoClassPOO", "55 - ExercicioVetorDoTipoClassPOO\55 - ExercicioVetorDoTipoClassPOO.csproj", "{153569E3-B1A0-400B-9A48-31F12060F2D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{0C709056-8FAF-40AE-AA73-8F742E287165}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C709056-8FAF-40AE-AA73-8F742E287165}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C709056-8FAF-40AE-AA73-8F742E287165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153569E3-B1A0-400B-9A48-31F12060F2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153569E3-B1A0-400B-9A48-31F12060F2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153569E3-B1A0-400B-9A48-31F12060F2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153569E3-B1A0-400B-9A48-31F12060F2D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
