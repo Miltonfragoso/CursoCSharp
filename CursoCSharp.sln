@@ -103,11 +103,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "49 - ExercicioContaBancaria
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "50 - TiposReferenciaTiposValor", "50 - TiposReferenciaTiposValor\50 - TiposReferenciaTiposValor.csproj", "{6B2E59B6-9E7D-4D51-8D73-851736129036}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51 - DesalocacaoDeMemoriaGarbageEscopo", "51 - DesalocacaoDeMemoriaGarbageEscopo\51 - DesalocacaoDeMemoriaGarbageEscopo.csproj", "{9D8152CA-AF80-4E57-9293-FF1CCD56EC16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "51 - DesalocacaoDeMemoriaGarbageEscopo", "51 - DesalocacaoDeMemoriaGarbageEscopo\51 - DesalocacaoDeMemoriaGarbageEscopo.csproj", "{9D8152CA-AF80-4E57-9293-FF1CCD56EC16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "52 - Nullable", "52 - Nullable\52 - Nullable.csproj", "{C9E104C8-4E65-4682-B5AE-A50F5D49F691}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "52 - Nullable", "52 - Nullable\52 - Nullable.csproj", "{C9E104C8-4E65-4682-B5AE-A50F5D49F691}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53 - VetoresDoTipoExtruture", "53 - VetoresDoTipoExtruture\53 - VetoresDoTipoExtruture.csproj", "{AF7EE0D8-F08F-4AB4-A474-E59F1359E355}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "53 - VetoresDoTipoExtruture", "53 - VetoresDoTipoExtruture\53 - VetoresDoTipoExtruture.csproj", "{AF7EE0D8-F08F-4AB4-A474-E59F1359E355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54 - VetoresDoTpoClassPOO", "54 - VetoresDoTpoClassPOO\54 - VetoresDoTpoClassPOO.csproj", "{0C709056-8FAF-40AE-AA73-8F742E287165}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -327,6 +329,10 @@ Global
 		{AF7EE0D8-F08F-4AB4-A474-E59F1359E355}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF7EE0D8-F08F-4AB4-A474-E59F1359E355}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF7EE0D8-F08F-4AB4-A474-E59F1359E355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C709056-8FAF-40AE-AA73-8F742E287165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C709056-8FAF-40AE-AA73-8F742E287165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C709056-8FAF-40AE-AA73-8F742E287165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C709056-8FAF-40AE-AA73-8F742E287165}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
