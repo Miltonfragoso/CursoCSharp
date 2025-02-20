@@ -25,7 +25,7 @@
  * e se y receber o valor de x?
  * E se y = x ?  R: y vai receber uma copia do valor que esta na caixa de x nesse caso o 10 também na Stack
  * 
- * Para os tipos valores nada é crado na parte da memória chamada de Heap, somente na Stack.
+ * Para os tipos valores nada é criado na parte da memória chamada de Heap, somente na Stack.
  * 
  * 
  * 
