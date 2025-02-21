@@ -20,7 +20,7 @@ namespace ModificadorDePrarametrosREFeOUT
         static void Main(string[] args)
         {
             int a = 10;
-            Calculadora.Triplicar(a);
+            Calculadora.Triplicar(ref a);
 
             Console.WriteLine(a);
 

@@ -113,9 +113,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "54 - VetoresDoTpoClassPOO",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "55 - ExercicioVetorDoTipoClassPOO", "55 - ExercicioVetorDoTipoClassPOO\55 - ExercicioVetorDoTipoClassPOO.csproj", "{153569E3-B1A0-400B-9A48-31F12060F2D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56 - ModificadorDePrametrosParams", "56 - ModificadorDePrametrosParams\56 - ModificadorDePrametrosParams.csproj", "{5C9AED7F-7019-4F09-A2A7-04A0B5B46C4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "56 - ModificadorDePrametrosParams", "56 - ModificadorDePrametrosParams\56 - ModificadorDePrametrosParams.csproj", "{5C9AED7F-7019-4F09-A2A7-04A0B5B46C4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "57 - ModificadorDePrarametrosREFeOUT", "57 - ModificadorDePrarametrosREFeOUT\57 - ModificadorDePrarametrosREFeOUT.csproj", "{17CA9B2B-F023-4F15-AE06-C3EC8970EE48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "57 - ModificadorDePrarametrosREFeOUT", "57 - ModificadorDePrarametrosREFeOUT\57 - ModificadorDePrarametrosREFeOUT.csproj", "{17CA9B2B-F023-4F15-AE06-C3EC8970EE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58 - BoxingUmboxing", "58 - BoxingUmboxing\58 - BoxingUmboxing.csproj", "{1A36A8A8-A97D-4EF7-8ADF-A21B9862E5E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -351,6 +353,10 @@ Global
 		{17CA9B2B-F023-4F15-AE06-C3EC8970EE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17CA9B2B-F023-4F15-AE06-C3EC8970EE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17CA9B2B-F023-4F15-AE06-C3EC8970EE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A36A8A8-A97D-4EF7-8ADF-A21B9862E5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A36A8A8-A97D-4EF7-8ADF-A21B9862E5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A36A8A8-A97D-4EF7-8ADF-A21B9862E5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A36A8A8-A97D-4EF7-8ADF-A21B9862E5E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
