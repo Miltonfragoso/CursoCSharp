@@ -16,8 +16,11 @@ namespace Listas
     {
         static void Main(string[] args)
         {
+            //cria uma lista vazia
             List<String> list = new List<String>();
 
+
+            //cria a lista e já adicionamos elementos nela
             List<String> list2 = new List<String> { " Milton ", " Danilsa ", " Yahminah "};
         }
     }
