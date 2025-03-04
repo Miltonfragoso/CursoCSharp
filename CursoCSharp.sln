@@ -123,7 +123,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "59 - LacoForeach", "59 - La
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "60 - Listas", "60 - Listas\60 - Listas.csproj", "{81595B72-CCE9-4179-AC8C-ED90470D0F52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61 - ListaNaPratica", "61 - ListaNaPratica\61 - ListaNaPratica.csproj", "{91F5B6CF-FDD8-47DB-A4E3-B3FC0C5BF1B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "61 - ListaNaPratica", "61 - ListaNaPratica\61 - ListaNaPratica.csproj", "{91F5B6CF-FDD8-47DB-A4E3-B3FC0C5BF1B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62 - ExercicioLista01", "62 - ExercicioLista01\62 - ExercicioLista01.csproj", "{BD7B5C64-29FD-46EE-B503-3349D2EBB0DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -375,6 +377,10 @@ Global
 		{91F5B6CF-FDD8-47DB-A4E3-B3FC0C5BF1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91F5B6CF-FDD8-47DB-A4E3-B3FC0C5BF1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91F5B6CF-FDD8-47DB-A4E3-B3FC0C5BF1B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7B5C64-29FD-46EE-B503-3349D2EBB0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7B5C64-29FD-46EE-B503-3349D2EBB0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7B5C64-29FD-46EE-B503-3349D2EBB0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7B5C64-29FD-46EE-B503-3349D2EBB0DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
