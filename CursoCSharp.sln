@@ -127,13 +127,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "61 - ListaNaPratica", "61 -
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "62 - ExercicioLista01", "62 - ExercicioLista01\62 - ExercicioLista01.csproj", "{BD7B5C64-29FD-46EE-B503-3349D2EBB0DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63 - Matrizes", "63 - Matrizes\63 - Matrizes.csproj", "{E2ACF867-8CA4-4CA7-B886-A80030CA411B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "63 - Matrizes", "63 - Matrizes\63 - Matrizes.csproj", "{E2ACF867-8CA4-4CA7-B886-A80030CA411B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64 - MatrizesNaPratica", "64 - MatrizesNaPratica\64 - MatrizesNaPratica.csproj", "{974DB51E-45C8-4F24-AD21-7EA662BFAAA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "64 - MatrizesNaPratica", "64 - MatrizesNaPratica\64 - MatrizesNaPratica.csproj", "{974DB51E-45C8-4F24-AD21-7EA662BFAAA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66 - InferenciaDeTipoPalavraVar", "66 - InferenciaDeTipoPalavraVar\66 - InferenciaDeTipoPalavraVar.csproj", "{10D2D803-676D-4D85-BACB-3197377A9366}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "66 - InferenciaDeTipoPalavraVar", "66 - InferenciaDeTipoPalavraVar\66 - InferenciaDeTipoPalavraVar.csproj", "{10D2D803-676D-4D85-BACB-3197377A9366}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67 - SintaxeAlternativaSwitchCase", "67 - SintaxeAlternativaSwitchCase\67 - SintaxeAlternativaSwitchCase.csproj", "{48063F20-851C-416A-9AFB-1AC9E5A2E81E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "67 - SintaxeAlternativaSwitchCase", "67 - SintaxeAlternativaSwitchCase\67 - SintaxeAlternativaSwitchCase.csproj", "{48063F20-851C-416A-9AFB-1AC9E5A2E81E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "65 - ExercicioMatriz", "65 - ExercicioMatriz\65 - ExercicioMatriz.csproj", "{7491FB73-47B6-4676-AAFF-3E7DC6F7FEC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -405,6 +407,10 @@ Global
 		{48063F20-851C-416A-9AFB-1AC9E5A2E81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48063F20-851C-416A-9AFB-1AC9E5A2E81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48063F20-851C-416A-9AFB-1AC9E5A2E81E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7491FB73-47B6-4676-AAFF-3E7DC6F7FEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7491FB73-47B6-4676-AAFF-3E7DC6F7FEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7491FB73-47B6-4676-AAFF-3E7DC6F7FEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7491FB73-47B6-4676-AAFF-3E7DC6F7FEC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,6 +17,7 @@ namespace MatrizesNaPratica
             //for para percorrer as linhas
             for(int i  = 0; i < N; i++)
             {
+                Console.WriteLine("Digite os valores desta linha, conrrespondente as suas colunas");
                 string[] valor = Console.ReadLine().Split(' ');
                 //for para percorrer as colunas
                 for(int j = 0; j < N; j++)
