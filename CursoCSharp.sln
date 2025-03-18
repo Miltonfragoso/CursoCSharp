@@ -139,6 +139,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "65 - ExercicioMatriz", "65 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "68 - ExpressaoCondicionalTernaria", "68 - ExpressaoCondicionalTernaria\68 - ExpressaoCondicionalTernaria.csproj", "{5B8F9EBC-9A04-4BDF-8082-604AAB53AC8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69 - FuncoesInteressantesParaString", "69 - FuncoesInteressantesParaString\69 - FuncoesInteressantesParaString.csproj", "{2702B379-14CD-4981-96B9-92B6444E09C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -417,6 +419,10 @@ Global
 		{5B8F9EBC-9A04-4BDF-8082-604AAB53AC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B8F9EBC-9A04-4BDF-8082-604AAB53AC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B8F9EBC-9A04-4BDF-8082-604AAB53AC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2702B379-14CD-4981-96B9-92B6444E09C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2702B379-14CD-4981-96B9-92B6444E09C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2702B379-14CD-4981-96B9-92B6444E09C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2702B379-14CD-4981-96B9-92B6444E09C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
