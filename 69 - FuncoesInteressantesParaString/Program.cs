@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _69___FuncoesInteressantesParaString
+namespace FuncoesInteressantesParaString
 {
     internal class Program
     {
@@ -31,14 +31,33 @@ namespace _69___FuncoesInteressantesParaString
             //Substring recortar a string cortar o 0, 1, 2 começa apartir do 3 somente ate 5 caraceres
             string s5 = original.Substring(3, 5);
 
+
+            //Replace sibistitui uma parte da string por outra
+            string s6 = original.Replace('a', 'x');
+            string s7 = original.Replace("abc", "xy");
+
+
+            //Funções para testar se a string é vazia útil para testar campos em branco no formulário
+            bool b1 = string.IsNullOrEmpty(original);
+            //Testar se tem spaço em branco
+            bool b2 = string.IsNullOrWhiteSpace(original);
+
+
+
+
+
             Console.WriteLine("Original: -" + original + "-");
             Console.WriteLine("ToUpper: -" + s1 + "-");
             Console.WriteLine("ToLower: -" + s2 + "-");
             Console.WriteLine("Trim: -" + s3 + "-");
-            Console.WriteLine("IndexOf('bc'): -" + n1);
-            Console.WriteLine("LastIndexOf('bc'): -" + n2);
-            Console.WriteLine("substring(3): " + s4);
-            Console.WriteLine("substring(3, 5): " + s5);
+            Console.WriteLine("IndexOf('bc'): " + n1);
+            Console.WriteLine("LastIndexOf('bc'): " + n2);
+            Console.WriteLine("substring(3): -" + s4 + "-");
+            Console.WriteLine("substring(3, 5): -" + s5 + "-");
+            Console.WriteLine("Replace('a', 'x'): -" + s6 + "-");
+            Console.WriteLine("Replace('a', 'x'): -" + s7 + "-");
+            Console.WriteLine("IsNullOrEmpty: " + b1);
+            Console.WriteLine("IsNullOrWhiteSpace: " + b2);
         }
     }
 }
