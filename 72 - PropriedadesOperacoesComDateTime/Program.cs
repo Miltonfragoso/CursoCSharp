@@ -25,7 +25,7 @@ namespace PropriedadesOperacoesComDateTime
         static void Main(string[] args)
         {
             //Propriedades
-            DateTime d = new DateTime(2001, 8, 15, 13, 45, 58, 275);
+            DateTime d = new DateTime(2002, 10, 15, 13, 45, 58, 275);
             Console.WriteLine(d);
             Console.WriteLine("1) Date: " + d.Date);
             Console.WriteLine("2) Day: " + d.Day);
@@ -66,19 +66,31 @@ namespace PropriedadesOperacoesComDateTime
             Console.WriteLine("--------------------------------------------------------------");
 
             //Operaçoes com DateTime
+            DateTime d2 = new DateTime(2001, 8, 15, 13, 45, 58);
 
-            //DateTime y = x.Add(timeSpan);
+
+
+
+            DateTime y1 = d2.AddHours(2);
+            DateTime y2 = d2.AddMinutes(3);
+            TimeSpan t = d.Subtract(d1);
+            DateTime y3 = d2.Add(t);
+
+
+            Console.WriteLine(d2);
+            Console.WriteLine(y1);
+            Console.WriteLine(y2);
+            Console.WriteLine(t);
+
+
             //DateTime y = x.AddDays(double);
-            //DateTime y = x.AddHours(double);
             //DateTime y = x.AddMilliseconds(double);
-            //DateTime y = x.AddMinutes(double);
             //DateTime y = x.AddMonths(int);
             //DateTime y = x.AddSeconds(double);
             //DateTime y = x.AddTicks(long);
             //DateTime y = x.AddYears(int);
             //DateTime y = x.Subtract(timeSpan);
             //TimeSpan t = x.Subtract(dateTime);
-
         }
     }
 }
