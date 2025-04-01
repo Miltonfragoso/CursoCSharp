@@ -149,6 +149,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "72 - PropriedadesOperacoesC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "73 - PropriedadesOperacoesTimeSpan", "73 - PropriedadesOperacoesTimeSpan\73 - PropriedadesOperacoesTimeSpan.csproj", "{7DA14773-7360-4040-AC04-314ADFBFD501}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "74 - DateTimeKindPadraoISO8601", "74 - DateTimeKindPadraoISO8601\74 - DateTimeKindPadraoISO8601.csproj", "{93E10821-2BAB-49D4-A010-DA2097246C86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -447,6 +449,10 @@ Global
 		{7DA14773-7360-4040-AC04-314ADFBFD501}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DA14773-7360-4040-AC04-314ADFBFD501}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DA14773-7360-4040-AC04-314ADFBFD501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E10821-2BAB-49D4-A010-DA2097246C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E10821-2BAB-49D4-A010-DA2097246C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E10821-2BAB-49D4-A010-DA2097246C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E10821-2BAB-49D4-A010-DA2097246C86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
