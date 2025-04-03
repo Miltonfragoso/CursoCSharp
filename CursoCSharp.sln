@@ -151,6 +151,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "73 - PropriedadesOperacoesT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "74 - DateTimeKindPadraoISO8601", "74 - DateTimeKindPadraoISO8601\74 - DateTimeKindPadraoISO8601.csproj", "{93E10821-2BAB-49D4-A010-DA2097246C86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75 - Enumeracoes(enum)", "75 - Enumeracoes(enum)\75 - Enumeracoes(enum).csproj", "{0764D5B0-29EB-40E8-B48B-A57CFF440A45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -453,6 +455,10 @@ Global
 		{93E10821-2BAB-49D4-A010-DA2097246C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93E10821-2BAB-49D4-A010-DA2097246C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93E10821-2BAB-49D4-A010-DA2097246C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0764D5B0-29EB-40E8-B48B-A57CFF440A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0764D5B0-29EB-40E8-B48B-A57CFF440A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0764D5B0-29EB-40E8-B48B-A57CFF440A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0764D5B0-29EB-40E8-B48B-A57CFF440A45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
