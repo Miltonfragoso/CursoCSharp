@@ -9,6 +9,8 @@ namespace Enumeracoes.Entites
     {
         public int Id { get; set; }
         public DateTime Momento { get; set; }
+
+        //Esse atributo da classe é um enum
         public StatusDoPedido Status { get; set; }
 
 

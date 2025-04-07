@@ -147,11 +147,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "71 - Periododetempo(TimeSpa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "72 - PropriedadesOperacoesComDateTime", "72 - PropriedadesOperacoesComDateTime\72 - PropriedadesOperacoesComDateTime.csproj", "{0D3E692B-6AD5-4E37-AE42-51B5D601EC73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "73 - PropriedadesOperacoesTimeSpan", "73 - PropriedadesOperacoesTimeSpan\73 - PropriedadesOperacoesTimeSpan.csproj", "{7DA14773-7360-4040-AC04-314ADFBFD501}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "73 - PropriedadesOperacoesTimeSpan", "73 - PropriedadesOperacoesTimeSpan\73 - PropriedadesOperacoesTimeSpan.csproj", "{7DA14773-7360-4040-AC04-314ADFBFD501}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "74 - DateTimeKindPadraoISO8601", "74 - DateTimeKindPadraoISO8601\74 - DateTimeKindPadraoISO8601.csproj", "{93E10821-2BAB-49D4-A010-DA2097246C86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "74 - DateTimeKindPadraoISO8601", "74 - DateTimeKindPadraoISO8601\74 - DateTimeKindPadraoISO8601.csproj", "{93E10821-2BAB-49D4-A010-DA2097246C86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75 - Enumeracoes(enum)", "75 - Enumeracoes(enum)\75 - Enumeracoes(enum).csproj", "{0764D5B0-29EB-40E8-B48B-A57CFF440A45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "75 - Enumeracoes(enum)", "75 - Enumeracoes(enum)\75 - Enumeracoes(enum).csproj", "{0764D5B0-29EB-40E8-B48B-A57CFF440A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "76 - ComposicaoDeObjetosExercicio", "76 - ComposicaoDeObjetosExercicio\76 - ComposicaoDeObjetosExercicio.csproj", "{842CEE65-221C-46B1-8CAC-A791B0D58348}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -459,6 +461,10 @@ Global
 		{0764D5B0-29EB-40E8-B48B-A57CFF440A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0764D5B0-29EB-40E8-B48B-A57CFF440A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0764D5B0-29EB-40E8-B48B-A57CFF440A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842CEE65-221C-46B1-8CAC-A791B0D58348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842CEE65-221C-46B1-8CAC-A791B0D58348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842CEE65-221C-46B1-8CAC-A791B0D58348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842CEE65-221C-46B1-8CAC-A791B0D58348}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

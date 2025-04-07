@@ -13,6 +13,7 @@ namespace Enumeracoes
     {
         static void Main(string[] args)
         {
+            //Intanciar um objeto do tipo pedido inicializando seus atributos
             Pedidos pedido = new Pedidos
             {
                 Id = 1080,
@@ -22,8 +23,11 @@ namespace Enumeracoes
             };
             Console.WriteLine(pedido);
 
+            //conversão de enum para string
             string txt = StatusDoPedido.PagamentoPendente.ToString();
 
+
+            //conversão de string para enum 
             StatusDoPedido os = Enum.Parse<StatusDoPedido>("Entregue");
 
             Console.WriteLine(txt);
