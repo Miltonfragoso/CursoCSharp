@@ -6,8 +6,11 @@ namespace ComposicaoDeObjetosExercicio.Entities
 {
     internal class Departamento
     {
+        //Propriedades 
         public string Nome{ get; set; }
 
+
+        //Construtores
         public Departamento()
         {
         }

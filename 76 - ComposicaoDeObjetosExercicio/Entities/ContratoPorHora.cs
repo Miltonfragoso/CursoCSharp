@@ -6,10 +6,15 @@ namespace ComposicaoDeObjetosExercicio.Entities
 {
     internal class ContratoPorHora
     {
+
+        //Propriedades 
         public DateTime Data { get; set; }
         public double ValorPorHora { get; set; }
         public int Horas { get; set; }
 
+
+
+        //construtores
         public ContratoPorHora()
         {
         }
@@ -21,6 +26,8 @@ namespace ComposicaoDeObjetosExercicio.Entities
             Horas = horas;
         }
 
+
+        //Métodos
         public double ValorTotalDoContrato()
         {
             return Horas * ValorPorHora;
