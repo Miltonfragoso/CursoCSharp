@@ -57,12 +57,12 @@ namespace ComposicaoDeObjetosExercicio
 
                 //adicionamos esse contrato na lista de contratos do trabalhador utilizando o método AddContratos
                 trabalhador.AddContratos(contrato);
-
             }
             Console.WriteLine();
             Console.Write("Entre com o mês e o ano para calcular a renda mensal somando todos contratos (MM/YYY): ");
-
             string meseano = Console.ReadLine();
+
+            //Recortar a string mesano com o substring ficando mês e ano separados
             int mes = int.Parse(meseano.Substring(0, 2));
             int ano = int.Parse(meseano.Substring(3));
 

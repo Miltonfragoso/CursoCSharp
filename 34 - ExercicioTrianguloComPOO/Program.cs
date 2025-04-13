@@ -34,7 +34,7 @@ namespace ExercicioTrianguloComPOO
             //double areaY = Math.Sqrt(p * (p - Y.A) * (p - Y.B) * (p - Y.C));
 
 
-            //chamada do método área
+            //chamada do método área para calcular as áreas de x e y.
             double areaX = X.Area();
             double areaY = X.Area();
 
