@@ -159,6 +159,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "77 - ComposiçãoDeObjetosS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "80 - Upcasting&Downcasting", "80 - Upcasting&Downcasting\80 - Upcasting&Downcasting.csproj", "{0DA4E053-E14D-4C7E-BE04-E8285C830B4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "79 - Heranca", "79 - Heranca\79 - Heranca.csproj", "{ED64C225-B30F-4A9C-8045-08C86B43665C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -477,6 +479,10 @@ Global
 		{0DA4E053-E14D-4C7E-BE04-E8285C830B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DA4E053-E14D-4C7E-BE04-E8285C830B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DA4E053-E14D-4C7E-BE04-E8285C830B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED64C225-B30F-4A9C-8045-08C86B43665C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED64C225-B30F-4A9C-8045-08C86B43665C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED64C225-B30F-4A9C-8045-08C86B43665C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED64C225-B30F-4A9C-8045-08C86B43665C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
