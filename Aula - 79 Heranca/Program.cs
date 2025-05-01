@@ -20,6 +20,7 @@
 //                                                                             +Loan(amount: Double): void 
 
 
+using Heranca.Entities;
 using System;
 
 namespace Heranca
@@ -28,7 +29,12 @@ namespace Heranca
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ContaEmpresarial contaEmpresarial = new ContaEmpresarial(8010, "Bob Brown", 100.0, 500.0);
+
+            Console.WriteLine(contaEmpresarial.Saldo);
+
+            //por útilizar o modificador de acesso proteted, o atributo saldo só pode ser modificado na classe base e em classes derivadas
+           // contaEmpresarial.Saldo = 200.0;
         }
     }
 }
