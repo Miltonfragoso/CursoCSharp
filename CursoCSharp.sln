@@ -161,7 +161,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "80 - Upcasting&Downcasting"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "79 - Heranca", "79 - Heranca\79 - Heranca.csproj", "{ED64C225-B30F-4A9C-8045-08C86B43665C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "78 - ExercicioComposicaoStrigBuilder", "78 - ExercicioComposicaoStrigBuilder\78 - ExercicioComposicaoStrigBuilder.csproj", "{72F40BC1-929E-4B43-8965-4224A76986AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "78 - ExercicioComposicaoStrigBuilder", "78 - ExercicioComposicaoStrigBuilder\78 - ExercicioComposicaoStrigBuilder.csproj", "{72F40BC1-929E-4B43-8965-4224A76986AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "81 - SobreposicaoSobrescrita", "81 - SobreposicaoSobrescrita\81 - SobreposicaoSobrescrita.csproj", "{0405B8C3-C1F3-4E3F-926C-CCD81A37FA33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -489,6 +491,10 @@ Global
 		{72F40BC1-929E-4B43-8965-4224A76986AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72F40BC1-929E-4B43-8965-4224A76986AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72F40BC1-929E-4B43-8965-4224A76986AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0405B8C3-C1F3-4E3F-926C-CCD81A37FA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0405B8C3-C1F3-4E3F-926C-CCD81A37FA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0405B8C3-C1F3-4E3F-926C-CCD81A37FA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0405B8C3-C1F3-4E3F-926C-CCD81A37FA33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
