@@ -1,4 +1,10 @@
-﻿/*• EMCAPSULAMENTO PRIMEIRO PILAR DA ORIENTAÇÃO A OBJETO
+﻿/*     ---------------------        OS 3 PILARES DA PROGRAMAÇÃO ORIENTADA A OBJETOS   ----------------------------   *
+ *                                                            EMCAPSULAMENTO
+ *                                                               HERANÇA
+ *                                                             POLIMORFISMO   
+ */
+
+/*• EMCAPSULAMENTO PRIMEIRO PILAR DA ORIENTAÇÃO A OBJETO
  * é um princípio que consiste em
 esconder detalhes de implementação
 de um componente, expondo apenas

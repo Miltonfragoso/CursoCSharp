@@ -1,4 +1,8 @@
-﻿
+﻿/*     ---------------------        OS 3 PILARES DA PROGRAMAÇÃO ORIENTADA A OBJETOS   ----------------------------   *
+ *                                                            EMCAPSULAMENTO
+ *                                                               HERANÇA
+ *                                                             POLIMORFISMO   
+ */
 using System;
 using System.Globalization;
 
