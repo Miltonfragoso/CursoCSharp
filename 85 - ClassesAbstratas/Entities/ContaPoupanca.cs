@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SobreposicaoSobrescrita.Entities
+namespace ClassesAbstratas.Entities
 {
     internal class ContaPoupanca : Conta
     {

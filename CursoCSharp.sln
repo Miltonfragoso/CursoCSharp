@@ -167,9 +167,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "81 - SobreposicaoSobrescrit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "82 - ClassesMetodosSelados", "82 - ClassesMetodosSelados\82 - ClassesMetodosSelados.csproj", "{8E18ABCB-BC45-42EE-8F9B-44DD81248359}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83 - Polimorfismo", "83 - Polimorfismo\83 - Polimorfismo.csproj", "{523DF6B5-14E7-47E5-BBB6-196FE1A06BC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "83 - Polimorfismo", "83 - Polimorfismo\83 - Polimorfismo.csproj", "{523DF6B5-14E7-47E5-BBB6-196FE1A06BC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "84 - ExercicioFixacaoPolimorfismo", "84 - ExercicioFixacaoPolimorfismo\84 - ExercicioFixacaoPolimorfismo.csproj", "{135CE14A-8808-43C4-9550-558D912317D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "84 - ExercicioFixacaoPolimorfismo", "84 - ExercicioFixacaoPolimorfismo\84 - ExercicioFixacaoPolimorfismo.csproj", "{135CE14A-8808-43C4-9550-558D912317D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "85 - ClassesAbstratas", "85 - ClassesAbstratas\85 - ClassesAbstratas.csproj", "{B54186FA-B102-4EC6-BA1B-538EEBA707D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -513,6 +515,10 @@ Global
 		{135CE14A-8808-43C4-9550-558D912317D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{135CE14A-8808-43C4-9550-558D912317D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{135CE14A-8808-43C4-9550-558D912317D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54186FA-B102-4EC6-BA1B-538EEBA707D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54186FA-B102-4EC6-BA1B-538EEBA707D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54186FA-B102-4EC6-BA1B-538EEBA707D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54186FA-B102-4EC6-BA1B-538EEBA707D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

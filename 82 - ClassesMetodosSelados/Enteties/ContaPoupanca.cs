@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SobreposicaoSobrescrita.Entities
+namespace ClassesMetodosSelados.Enteties
 {
-    internal class ContaPoupanca : Conta
+    //Ao colocar a palavra Sealed impedimos que essa classe seja herdada
+    sealed class ContaPoupanca : Conta
     {
         public double TaxaJuros { get; set; }
 
@@ -25,8 +26,7 @@ namespace SobreposicaoSobrescrita.Entities
         //sobrescrevendo o método saque
         public override void Saque(double quantia)
         {
-            base.Saque(quantia);
-            Saldo -= 2.0;
+            Saldo -= (quantia);
         }
     }
 }
