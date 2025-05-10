@@ -173,6 +173,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "84 - ExercicioFixacaoPolimo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "85 - ClassesAbstratas", "85 - ClassesAbstratas\85 - ClassesAbstratas.csproj", "{B54186FA-B102-4EC6-BA1B-538EEBA707D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "86 - MétodosAbstratos", "86 - MétodosAbstratos\86 - MétodosAbstratos.csproj", "{D7CCA444-87EE-4915-9289-EE0DCDF61D8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -519,6 +521,10 @@ Global
 		{B54186FA-B102-4EC6-BA1B-538EEBA707D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B54186FA-B102-4EC6-BA1B-538EEBA707D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B54186FA-B102-4EC6-BA1B-538EEBA707D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7CCA444-87EE-4915-9289-EE0DCDF61D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CCA444-87EE-4915-9289-EE0DCDF61D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CCA444-87EE-4915-9289-EE0DCDF61D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CCA444-87EE-4915-9289-EE0DCDF61D8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

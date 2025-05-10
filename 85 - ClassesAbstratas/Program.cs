@@ -21,15 +21,15 @@ namespace ClassesAbstratas
         static void Main(string[] args)
         {
             //Não pode instanciar uma classe abstrata
-            //Conta acc1 = new Conta(1001, "Alex", 500.0);
+            Conta acc1 = new Conta(1001, "Alex", 500.0);
 
-            //Conta acc2 = new ContaPoupanca(1002, "Ana", 500.0, 0.01);
+            Conta acc2 = new ContaPoupanca(1002, "Ana", 500.0, 0.01);
 
-            //acc1.Saque(10.0);
-            //acc2.Saque(10.0);
+            acc1.Saque(10.0);
+            acc2.Saque(10.0);
 
-            //Console.WriteLine(acc1.Saldo);
-            //Console.WriteLine(acc2.Saldo);
+            Console.WriteLine(acc1.Saldo);
+            Console.WriteLine(acc2.Saldo);
 
             Console.WriteLine("--------------------------------------------------");
 
