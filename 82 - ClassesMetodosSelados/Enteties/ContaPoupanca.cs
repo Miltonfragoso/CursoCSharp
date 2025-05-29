@@ -5,7 +5,7 @@ using System.Text;
 namespace ClassesMetodosSelados.Enteties
 {
     //Ao colocar a palavra Sealed impedimos que essa classe seja herdada
-    sealed class ContaPoupanca : Conta
+    class ContaPoupanca : Conta
     {
         public double TaxaJuros { get; set; }
 
@@ -24,9 +24,11 @@ namespace ClassesMetodosSelados.Enteties
         }
 
         //sobrescrevendo o método saque
-        public override void Saque(double quantia)
+        //ao incluir a palavra sealed estamos dizendo que esse método não pode ser sobrescrito novamente 
+        public  sealed override void Saque(double quantia)
         {
-            Saldo -= (quantia);
+            base.Saque(quantia);
+            Saldo -= 2.0;
         }
     }
 }

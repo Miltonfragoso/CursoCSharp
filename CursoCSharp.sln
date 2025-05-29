@@ -171,11 +171,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "83 - Polimorfismo", "83 - P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "84 - ExercicioFixacaoPolimorfismo", "84 - ExercicioFixacaoPolimorfismo\84 - ExercicioFixacaoPolimorfismo.csproj", "{135CE14A-8808-43C4-9550-558D912317D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "85 - ClassesAbstratas", "85 - ClassesAbstratas\85 - ClassesAbstratas.csproj", "{B54186FA-B102-4EC6-BA1B-538EEBA707D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "85 - ClassesAbstratas", "85 - ClassesAbstratas\85 - ClassesAbstratas.csproj", "{B54186FA-B102-4EC6-BA1B-538EEBA707D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "86 - MétodosAbstratos", "86 - MétodosAbstratos\86 - MétodosAbstratos.csproj", "{D7CCA444-87EE-4915-9289-EE0DCDF61D8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "86 - MétodosAbstratos", "86 - MétodosAbstratos\86 - MétodosAbstratos.csproj", "{D7CCA444-87EE-4915-9289-EE0DCDF61D8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "87 - ExercícioDeFixacaoMetodosabstratos", "87 - ExercícioDeFixacaoMetodosabstratos\87 - ExercícioDeFixacaoMetodosabstratos.csproj", "{54D601A1-F723-4E29-8588-D5EA693D2355}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "87 - ExercícioDeFixacaoMetodosabstratos", "87 - ExercícioDeFixacaoMetodosabstratos\87 - ExercícioDeFixacaoMetodosabstratos.csproj", "{54D601A1-F723-4E29-8588-D5EA693D2355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88 - Excecoes", "88 - Excecoes\88 - Excecoes.csproj", "{41FE4101-1A3C-458E-B912-37A1B8837724}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -531,6 +533,10 @@ Global
 		{54D601A1-F723-4E29-8588-D5EA693D2355}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54D601A1-F723-4E29-8588-D5EA693D2355}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54D601A1-F723-4E29-8588-D5EA693D2355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41FE4101-1A3C-458E-B912-37A1B8837724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41FE4101-1A3C-458E-B912-37A1B8837724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41FE4101-1A3C-458E-B912-37A1B8837724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41FE4101-1A3C-458E-B912-37A1B8837724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
