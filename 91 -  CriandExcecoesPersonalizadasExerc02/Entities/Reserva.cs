@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace CriandExcecoesPersonalizadasExerc.Entities
+namespace CriandExcecoesPersonalizadasExerc02.Entities
 {
     internal class Reserva
     {
@@ -18,16 +20,29 @@ namespace CriandExcecoesPersonalizadasExerc.Entities
         }
 
         //Esse método duração vai retornar o calcúlo das horas desde a data de  entrada até a data de saída
-        public int Duracao() 
-        { 
+        public int Duracao()
+        {
             TimeSpan duracao = Saida.Subtract(Entrada);
             return (int)duracao.TotalDays;
         }
 
-        public void UpdateDates(DateTime checkIn, DateTime checkOut)
+        public string UpdateDates(DateTime checkIn, DateTime checkOut)
         {
+            DateTime now = DateTime.Now;
+            if (checkIn < now || checkOut < now)
+            {
+                return "As datas para atualização das reservas precisam ser datas futuras";
+            }
+            if (checkOut <= checkIn)
+            {
+                return "A data de saída tem que ser maior a data de entrada";
+            }
+
             Entrada = checkIn;
             Saida = checkOut;
+
+            // O retorno nullo indica que não teve nehum erro.
+            return null;
         }
 
         public override string ToString()
@@ -42,6 +57,5 @@ namespace CriandExcecoesPersonalizadasExerc.Entities
                 + Duracao()
                 + " nights";
         }
-
     }
 }
