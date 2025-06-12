@@ -185,7 +185,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "90 - CriandExcecoesPersonal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "91 -  CriandExcecoesPersonalizadasExerc02", "91 -  CriandExcecoesPersonalizadasExerc02\91 -  CriandExcecoesPersonalizadasExerc02.csproj", "{241E9023-2888-4156-AA9B-A50F2F835A84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "92 - CriandoExcecoesPersonalizadasExc03", "92 - CriandoExcecoesPersonalizadasExc03\92 - CriandoExcecoesPersonalizadasExc03.csproj", "{753A96B2-19FF-4F25-9A7B-331BA90269F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "92 - CriandoExcecoesPersonalizadasExc03", "92 - CriandoExcecoesPersonalizadasExc03\92 - CriandoExcecoesPersonalizadasExc03.csproj", "{753A96B2-19FF-4F25-9A7B-331BA90269F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "93 - ExercDeFixacaoTratamExce", "93 - ExercDeFixacaoTratamExce\93 - ExercDeFixacaoTratamExce.csproj", "{38EEA817-5AB6-43C3-BE94-BB4611AEADCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -561,6 +563,10 @@ Global
 		{753A96B2-19FF-4F25-9A7B-331BA90269F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{753A96B2-19FF-4F25-9A7B-331BA90269F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{753A96B2-19FF-4F25-9A7B-331BA90269F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38EEA817-5AB6-43C3-BE94-BB4611AEADCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EEA817-5AB6-43C3-BE94-BB4611AEADCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EEA817-5AB6-43C3-BE94-BB4611AEADCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EEA817-5AB6-43C3-BE94-BB4611AEADCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
