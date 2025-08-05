@@ -197,6 +197,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "96 - Bloco_using", "96 - Bl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "97 - Stream_Writer", "97 - StreamWriter\97 - Stream_Writer.csproj", "{DE9EE5E8-D723-4A5C-A15D-EBCDCA24596B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "98 -  Directory_DirectoryInfo", "98 -  Directory_DirectoryInfo\98 -  Directory_DirectoryInfo.csproj", "{6FD9CCC1-441E-4410-A56D-EADFFA379653}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -591,6 +593,10 @@ Global
 		{DE9EE5E8-D723-4A5C-A15D-EBCDCA24596B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE9EE5E8-D723-4A5C-A15D-EBCDCA24596B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE9EE5E8-D723-4A5C-A15D-EBCDCA24596B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD9CCC1-441E-4410-A56D-EADFFA379653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD9CCC1-441E-4410-A56D-EADFFA379653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD9CCC1-441E-4410-A56D-EADFFA379653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD9CCC1-441E-4410-A56D-EADFFA379653}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
