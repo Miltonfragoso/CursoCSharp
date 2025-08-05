@@ -199,6 +199,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "97 - Stream_Writer", "97 - 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "98 -  Directory_DirectoryInfo", "98 -  Directory_DirectoryInfo\98 -  Directory_DirectoryInfo.csproj", "{6FD9CCC1-441E-4410-A56D-EADFFA379653}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "99 - Classe_Path", "99 - Classe_Path\99 - Classe_Path.csproj", "{F6619289-836F-414D-8B0B-4E37C1DFCCDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -597,6 +599,10 @@ Global
 		{6FD9CCC1-441E-4410-A56D-EADFFA379653}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FD9CCC1-441E-4410-A56D-EADFFA379653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FD9CCC1-441E-4410-A56D-EADFFA379653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6619289-836F-414D-8B0B-4E37C1DFCCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6619289-836F-414D-8B0B-4E37C1DFCCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6619289-836F-414D-8B0B-4E37C1DFCCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6619289-836F-414D-8B0B-4E37C1DFCCDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
