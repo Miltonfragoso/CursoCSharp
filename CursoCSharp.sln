@@ -201,6 +201,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "98 -  Directory_DirectoryIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "99 - Classe_Path", "99 - Classe_Path\99 - Classe_Path.csproj", "{F6619289-836F-414D-8B0B-4E37C1DFCCDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100 - ExercSemInterface", "100 - ExercSemInterface\100 - ExercSemInterface.csproj", "{4205C204-BFA6-4EDF-B29B-7B8DA7874566}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -603,6 +605,10 @@ Global
 		{F6619289-836F-414D-8B0B-4E37C1DFCCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6619289-836F-414D-8B0B-4E37C1DFCCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6619289-836F-414D-8B0B-4E37C1DFCCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4205C204-BFA6-4EDF-B29B-7B8DA7874566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4205C204-BFA6-4EDF-B29B-7B8DA7874566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4205C204-BFA6-4EDF-B29B-7B8DA7874566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4205C204-BFA6-4EDF-B29B-7B8DA7874566}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
