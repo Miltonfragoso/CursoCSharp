@@ -38,7 +38,7 @@ namespace ExercComInterface.Services
             }
 
 
-            double imposto = _impostoService.Imposto(pagamentoBasico);
+            double imposto = _impostoService.ImpostoNoBrasil(pagamentoBasico);
 
             aluguelDeCarro.Fatura = new Fatura(pagamentoBasico, imposto);
         }

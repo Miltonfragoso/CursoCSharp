@@ -6,6 +6,6 @@ namespace ExercComInterface.Services
 {
     public interface IImpostosService
     {
-        double Imposto(double quantia); 
+        double ImpostoNoBrasil(double quantia); 
     }
 }

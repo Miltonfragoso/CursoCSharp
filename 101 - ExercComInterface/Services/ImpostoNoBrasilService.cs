@@ -1,8 +1,8 @@
 ﻿namespace ExercComInterface.Services
 {
-    public class ImpostoNoBrasilService : IImpostosService
+    public class Imposto : IImpostosService
     {
-        public double Imposto(double quantia)
+        public double ImpostoNoBrasil(double quantia)
         {
             if (quantia <= 100.00)
             {
@@ -14,5 +14,6 @@
             }
 
         }
+
     }
 }
