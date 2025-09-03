@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Heranca_CumprirContrato</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Model\Entities\FiguraAbstrata.cs~RF24dc95.TMP" />
+  </ItemGroup>
+
+</Project>
