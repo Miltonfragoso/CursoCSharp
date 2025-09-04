@@ -25,8 +25,8 @@ namespace File_FileInfo_IOException
     {
         static void Main(string[] args)
         {
-            string caminhoPastaOrigem = @"C:\Users\MILTON\Desktop\Arquivos baixados\File1.txt";
-            string caminhoPastaDestino = @"C:\Users\MILTON\Desktop\Arquivos baixados\File2.txt";
+            string caminhoPastaOrigem = @"D:\Users\MILTON\Desktop\Arquivos baixados\File1.txt";
+            string caminhoPastaDestino = @"D:\Users\MILTON\Desktop\Arquivos baixados\File2.txt";
 
             try
             {
