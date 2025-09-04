@@ -3,11 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>IntroducaoGenerics</RootNamespace>
+    <RootNamespace>ExercRestricoesGenerics</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <None Remove="ImpressaoServiceGeneric.cs~RF4f78b90.TMP" />
-  </ItemGroup>
 
 </Project>
