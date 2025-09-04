@@ -28,6 +28,8 @@ namespace IntroducaoGenerics
         {
             ImpressaoService impressaoService = new ImpressaoService();
 
+            ImpressaoServiceGeneric<string> impressaoServiceGeneric = new ImpressaoServiceGeneric<string>();
+
             Console.Write("How many values? ");
             int n = int.Parse(Console.ReadLine());
 

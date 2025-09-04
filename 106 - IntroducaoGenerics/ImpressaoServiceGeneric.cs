@@ -1,6 +1,4 @@
-﻿
-/*Essa resolução não é a ideal, pois não permite reuso de código. Se for necessário
- * Ela vai funcionar apenas para inteiros
+﻿/*Aqui esta uma solução de um serviço de impressão genérico em C# que pode imprimir listas de qualquer tipo de dado,
  */
 using System;
 using System.Collections.Generic;
@@ -8,13 +6,13 @@ using System.Text;
 
 namespace IntroducaoGenerics
 {
-    public class ImpressaoService
+    public  class ImpressaoServiceGeneric<T>
     {
-        private int[] _valores = new int[10];
+        private T[] _valores = new T[10];
 
         private int _contador = 0;
 
-        public void AddValor(int value)
+        public void AddValor(T value)
         {
             if (_contador == 10)
             {
@@ -26,7 +24,7 @@ namespace IntroducaoGenerics
 
         }
 
-        public int Primeiro()
+        public T Primeiro()
         {
             if (_contador == 0)
             {
@@ -38,7 +36,7 @@ namespace IntroducaoGenerics
         public void Imprimir()
         {
             Console.Write("[");
-            for (int i = 0; i < _contador -1; i++)
+            for (int i = 0; i < _contador - 1; i++)
             {
                 Console.Write(_valores[i] + ", ");
             }
