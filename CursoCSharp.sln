@@ -219,6 +219,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "107 - ExercRestricoesGeneri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "108 - GetHashCodeEquals", "108 - GetHashCodeEquals\108 - GetHashCodeEquals.csproj", "{0259FDC4-C443-4325-B8CF-E1933907D7AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "109 - ConjuntosHashSetSortedSet", "109 - ConjuntosHashSetSortedSet\109 - ConjuntosHashSetSortedSet.csproj", "{D5567C0C-D618-40D6-996F-8D6E443DA4EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -657,6 +659,10 @@ Global
 		{0259FDC4-C443-4325-B8CF-E1933907D7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0259FDC4-C443-4325-B8CF-E1933907D7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0259FDC4-C443-4325-B8CF-E1933907D7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5567C0C-D618-40D6-996F-8D6E443DA4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5567C0C-D618-40D6-996F-8D6E443DA4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5567C0C-D618-40D6-996F-8D6E443DA4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5567C0C-D618-40D6-996F-8D6E443DA4EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
