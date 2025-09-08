@@ -223,6 +223,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "109 - ConjuntosHashSetSorte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "110 - DictionarySortedDictionary", "110 - DictionarySortedDictionary\110 - DictionarySortedDictionary.csproj", "{45D524BE-4A43-4DDC-865D-3B2B7B39E3EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "111 - ExtensionMethods", "111 - ExtensionMethods\111 - ExtensionMethods.csproj", "{E5EB3A43-A709-43BA-85A2-1CE92A5DE3DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -669,6 +671,10 @@ Global
 		{45D524BE-4A43-4DDC-865D-3B2B7B39E3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45D524BE-4A43-4DDC-865D-3B2B7B39E3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45D524BE-4A43-4DDC-865D-3B2B7B39E3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5EB3A43-A709-43BA-85A2-1CE92A5DE3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EB3A43-A709-43BA-85A2-1CE92A5DE3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EB3A43-A709-43BA-85A2-1CE92A5DE3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EB3A43-A709-43BA-85A2-1CE92A5DE3DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
