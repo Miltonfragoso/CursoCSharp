@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace SobrecargaComparison.Entities
 {
-    public class Produto : IComparable<Produto>
+    public class Produto
     {
         public string Nome{ get; set; }
         public double Preco{ get; set; }
@@ -19,11 +19,6 @@ namespace SobrecargaComparison.Entities
             return Nome
                 + ", $ "
                 + Preco.ToString("F2", CultureInfo.InvariantCulture);
-        }
-
-        public int CompareTo(Produto other)
-        {
-            return Nome.ToUpper().CompareTo(other.Nome.ToUpper());
         }
     }
 }

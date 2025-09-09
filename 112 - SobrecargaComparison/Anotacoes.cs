@@ -8,4 +8,7 @@
     Podemos então usar outra sobrecarga do método "Sort" da
     classe List:
     public void Sort(Comparison<T> comparison)
+
+    onde Comparison<T> é um delegate que recebe dois parâmetros do tipo T
+    e retorna um int
  */

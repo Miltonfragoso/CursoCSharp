@@ -6,4 +6,8 @@
     <RootNamespace>SobrecargaComparison</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Anotacoes.cs~RF4b01b8.TMP" />
+  </ItemGroup>
+
 </Project>
