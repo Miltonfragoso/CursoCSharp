@@ -3,11 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>IntroducaoDelegates</RootNamespace>
+    <RootNamespace>MulticastDelegate</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <None Remove="Program.cs~RFaf6389.TMP" />
-  </ItemGroup>
 
 </Project>

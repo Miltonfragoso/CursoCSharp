@@ -229,6 +229,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "112 - SobrecargaComparison"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "113 - IntroducaoDelegates", "113 - IntroducaoDelegates\113 - IntroducaoDelegates.csproj", "{154E5173-0146-4691-874D-4422BC05A668}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "114 - MulticastDelegate", "114 - MulticastDelegate\114 - MulticastDelegate.csproj", "{29F030AD-58D1-4E3E-9A28-CD2F2D04F285}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -687,6 +689,10 @@ Global
 		{154E5173-0146-4691-874D-4422BC05A668}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{154E5173-0146-4691-874D-4422BC05A668}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{154E5173-0146-4691-874D-4422BC05A668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F030AD-58D1-4E3E-9A28-CD2F2D04F285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F030AD-58D1-4E3E-9A28-CD2F2D04F285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F030AD-58D1-4E3E-9A28-CD2F2D04F285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F030AD-58D1-4E3E-9A28-CD2F2D04F285}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
