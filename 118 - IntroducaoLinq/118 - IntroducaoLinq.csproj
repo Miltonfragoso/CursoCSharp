@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_118___IntroducaoLinq</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Definicao.cs~RF5b51a5b.TMP" />
+  </ItemGroup>
+
+</Project>
