@@ -235,6 +235,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "115 - Predicate", "115 - Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "116 - DelegateAction", "116 - DelegateAction\116 - DelegateAction.csproj", "{992236BC-7435-4A5B-BFD5-1CDC148F23A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "117 - DelegateFunc", "117 - DelegateFunc\117 - DelegateFunc.csproj", "{93ACB8DE-E457-4F18-A0DA-3DF863BED552}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -705,6 +707,10 @@ Global
 		{992236BC-7435-4A5B-BFD5-1CDC148F23A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{992236BC-7435-4A5B-BFD5-1CDC148F23A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{992236BC-7435-4A5B-BFD5-1CDC148F23A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93ACB8DE-E457-4F18-A0DA-3DF863BED552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93ACB8DE-E457-4F18-A0DA-3DF863BED552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93ACB8DE-E457-4F18-A0DA-3DF863BED552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93ACB8DE-E457-4F18-A0DA-3DF863BED552}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
