@@ -239,6 +239,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "117 - DelegateFunc", "117 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "118 - IntroducaoLinq", "118 - IntroducaoLinq\118 - IntroducaoLinq.csproj", "{ACB7815C-8B83-4C10-8710-75FC877B1F1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "119 - DemoLinqLambla", "119 - DemoLinqLambla\119 - DemoLinqLambla.csproj", "{E17C6560-D2AF-49C3-9F3A-12B63E2B8155}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -717,6 +719,10 @@ Global
 		{ACB7815C-8B83-4C10-8710-75FC877B1F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACB7815C-8B83-4C10-8710-75FC877B1F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACB7815C-8B83-4C10-8710-75FC877B1F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17C6560-D2AF-49C3-9F3A-12B63E2B8155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17C6560-D2AF-49C3-9F3A-12B63E2B8155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17C6560-D2AF-49C3-9F3A-12B63E2B8155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17C6560-D2AF-49C3-9F3A-12B63E2B8155}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
