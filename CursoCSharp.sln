@@ -243,6 +243,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "119 - DemoLinqLambla", "119
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "120 - DemoLINQnotacaoSQL", "120 - DemoLINQnotacaoSQL\120 - DemoLINQnotacaoSQL.csproj", "{F6E40A65-0398-4022-A424-44E77957EE06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121 - ExercFixacao", "121 - ExercFixacao\121 - ExercFixacao.csproj", "{86DED4A3-4897-48A9-A0EB-70A6CD567FD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -729,6 +731,10 @@ Global
 		{F6E40A65-0398-4022-A424-44E77957EE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6E40A65-0398-4022-A424-44E77957EE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6E40A65-0398-4022-A424-44E77957EE06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86DED4A3-4897-48A9-A0EB-70A6CD567FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DED4A3-4897-48A9-A0EB-70A6CD567FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DED4A3-4897-48A9-A0EB-70A6CD567FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DED4A3-4897-48A9-A0EB-70A6CD567FD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
